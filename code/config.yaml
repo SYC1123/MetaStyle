@@ -1,0 +1,33 @@
+train:
+  data_root: '../../dataset/BRATS-2018/MICCAI_BraTS_2018_Data_Training/LGG'
+  target_root: '../../dataset/BRATS-2018/MICCAI_BraTS_2018_Data_Training/npz_data/train_FM'
+  modality: 't2'
+  train_source_similar_dir: 'dataset/BRATS-2018/train_npz_data/t2_ss_train'
+  train_source_dissimilar_dir: 'dataset/BRATS-2018/train_npz_data/t2_sd_train'
+  test_source_similar_dir: 'dataset/BRATS-2018/train_npz_data/t2_ss_test'
+  test_source_dissimilar_dir: 'dataset/BRATS-2018/train_npz_data/t2_sd_test'
+  batch_size: 6
+  max_epoch: 50
+  lr: 0.001
+  save_interval: 5
+  meta_step_size: 0.001
+  inner_train_step: 1
+  split_train_dir: '../../dataset/BRATS-2018/train_data'
+  target_train_dir: '../../dataset/BRATS-2018/train_npz_data'
+  rec_dir: 'rec_img'
+
+test:
+  data_root: '../../dataset/BRATS-2018/MICCAI_BraTS_2018_Data_Training/LGG'
+  target_root: '../../dataset/BRATS-2018/MICCAI_BraTS_2018_Data_Training/npz_data/test'
+  test_dir: 'dataset/BRATS-2018/test_npz_data'
+  test_domain_list: ['flair', 't1', 't1ce']
+  gpu_ids: '2'
+  n_classes: 2
+  model_dir: 'outdir/checkpoint'
+  batch_size: 64
+  save_label: True
+  label_dir: 'results/unet'
+  real_mask_dir: 'results/real_mask'
+  split_test_dir: '../../dataset/BRATS-2018/test_data'
+  target_test_dir: '../../dataset/BRATS-2018/test_npz_data'
+
