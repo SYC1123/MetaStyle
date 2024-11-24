@@ -49,11 +49,11 @@ def nonlinear_transformation(slices):
         nonlinear_slices_3, nonlinear_slices_4, nonlinear_slices_5
 
 
-domin = 'flair'
+domin = 't2'
 
-train_path_save = f'./processed_2d_train_bezier/{domin}'
-val_path_save = f'./processed_2d_val_bezier/{domin}'
-test_path_save = f'./processed_2d_test_bezier/{domin}'
+train_path_save = f'F:\MetaStyleDate\BRATS-2018\processed_2d_train_bezier_ori_name/{domin}'
+# val_path_save = f'./processed_2d_val_bezier/{domin}'
+# test_path_save = f'./processed_2d_test_bezier/{domin}'
 
 
 def save_img(slice, label, dir):
@@ -121,11 +121,11 @@ val_ratio = 0.1
 test_ratio = 0.2
 
 train_path = r'G:\VS_project\Brats-Demo\datasets\BraTS_2018\train'
-val_path = r'G:\VS_project\Brats-Demo\datasets\BraTS_2018\val'
-test_path = r'G:\VS_project\Brats-Demo\datasets\BraTS_2018\test'
+# val_path = r'G:\VS_project\Brats-Demo\datasets\BraTS_2018\val'
+# test_path = r'G:\VS_project\Brats-Demo\datasets\BraTS_2018\test'
 data_train = os.listdir(train_path)
-data_val = os.listdir(val_path)
-data_test = os.listdir(test_path)
+# data_val = os.listdir(val_path)
+# data_test = os.listdir(test_path)
 # print(data)
 
 # # 打乱数据
@@ -154,12 +154,12 @@ for case in data_train:
 #     img_data,seg_data=data_process(img_path,seg_path,case,val_path_save,modes='val')
 
 # 测试集
-for case in data_test:
-    img_path = os.path.join(test_path, case, case + '_' + domin + '.nii.gz')
-    seg_path = os.path.join(test_path, case, case + '_seg.nii.gz')
-    print(img_path)
-    print(seg_path)
-    img_data, seg_data = data_process(img_path, seg_path, case, test_path_save, modes='test')
+# for case in data_test:
+#     img_path = os.path.join(test_path, case, case + '_' + domin + '.nii.gz')
+#     seg_path = os.path.join(test_path, case, case + '_seg.nii.gz')
+#     print(img_path)
+#     print(seg_path)
+#     img_data, seg_data = data_process(img_path, seg_path, case, test_path_save, modes='test')
 
 # train_ori_path_save = f'./processed_2d_train_ori/{domin}'
 # # 不过贝塞尔的训练集

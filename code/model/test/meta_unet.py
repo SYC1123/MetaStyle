@@ -101,7 +101,7 @@ class ConvU(nn.Module):
 
 
 class UNet(nn.Module):
-    def __init__(self, c=1, n=16, num_classes=2, norm='in'):
+    def __init__(self, c=1, n=16, num_classes=1, norm='in'):
         super(UNet, self).__init__()
         self.style_bank = StyleFeatureBank()
 
@@ -124,7 +124,7 @@ class UNet(nn.Module):
         self.seg1 = nn.Conv2d(2 * n, num_classes, 1)
         self.reconstruction = nn.Conv2d(2 * n, c, kernel_size=1)
 
-    def forward(self, x, mode='meta-train_FM', meta_loss=None, meta_step_size=0.001, stop_gradient=False):
+    def forward(self, x, mode='meta-train', meta_loss=None, meta_step_size=0.001, stop_gradient=False):
         # self.meta_loss = meta_loss
         # self.meta_step_size = meta_step_size
         # self.stop_gradient = stop_gradient
@@ -140,7 +140,7 @@ class UNet(nn.Module):
         # print(f"mean,sig,x2{mean.shape, sig.shape, x2.shape}")
         # mean, sig, x2(torch.Size([1, 32, 1, 1]), torch.Size([1, 32, 1, 1]), torch.Size([1, 32, 64, 64]))
 
-        if mode == 'meta-train_FM':
+        if mode == 'meta-train':
             # 元训练特征统计量加入特征bank
             self.style_bank.add_statistics(mean, sig)
             y4 = self.convu4(x5, x4, meta_loss, meta_step_size, stop_gradient)

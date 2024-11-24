@@ -5,6 +5,8 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from PIL import Image
 from torchvision import transforms
+import shutil
+import os
 
 
 class BraTSDataset(Dataset):
@@ -149,33 +151,42 @@ class MyBraTSDataset(Dataset):
 
 if __name__ == '__main__':
     domain = 't2'
-    train_path = f'F:\MetaStyleDate\BRATS-2018\processed_2d_train_bezier\\{domain}'
+    train_path = f'F:\MetaStyleDate\BRATS-2018\processed_2d_train_bezier_ori_name\\{domain}'
     train_case = []
-    train_case_path = r'F:\MetaStyleDate\BRATS-2018\processed_2d_train_bezier\train.txt'
+    train_case_path = r'F:\MetaStyleDate\BRATS-2018\train.txt'
+    new_save_path = f'F:\MetaStyleDate\BRATS-2018\processed_2d_train_bezier_newnum\\{domain}'
     with open(train_case_path, 'r') as f:
         for line in f:
             train_case.append(line.strip())
-    # 得到每一个case的切片的数量 sample_Brats18_2013_0_1_0_0.npz---sample_Brats18_2013_0_1_？？_0.npz
-
-    dataset = MyBraTSDataset(train_path, train_case)
-    # # 查看数据集的第一个数据
-    # traindataloder = DataLoader(dataset, batch_size=8, shuffle=True)
-    # for i, (img0, img1, img2, img3, img4, img5, mask) in enumerate(traindataloder):
-    #     print(img0.shape, img1.shape, img2.shape, img3.shape, img4.shape, img5.shape, mask.shape)
-    #     break
+    k = 0.4
     id = 0
     for case in train_case:
         slice_files = [f for f in os.listdir(train_path) if f.startswith(f'sample_{case}_') and f.endswith('.npz')]
         # print(slice_files)
-        # print(len(slice_files))
-        for i in range(len(slice_files) // 6):
+        print(len(slice_files))
+        num_elements = int(len(slice_files) // 6 * k)
+        start_index = (len(slice_files) // 6 - num_elements) // 2
+        end_index = start_index + num_elements
+        print(start_index)
+        print(start_index + num_elements)
+        # for filename in slice_files[start_index:start_index + num_elements]:
+        #     print(filename)
+        # break
+        for i in range(start_index, end_index):
             replace_str = f'sample_{case}_' + str(i) + '_'
             for filename in slice_files:
                 if filename.startswith(replace_str):
                     # 将slice_files中的replace_str开头的所有文件的名字中的replace_str替换为id
+                    print(filename)
                     old_name = os.path.join(train_path, filename)
-                    new_name = os.path.join(train_path, filename.replace(replace_str, str(id) + '_'))
-                    # print(new_name)
-                    os.rename(old_name, new_name)
+                    # 将old_name复制到新的文件夹processed_2d_train_bezier_newnum中
+                    shutil.copy2(old_name, new_save_path)
+                    print("文件复制成功")
+                    copied_file_path = os.path.join(new_save_path, os.path.basename(old_name))
+                    new_file_name = filename.replace(replace_str, str(id) + '_')
+                    new_file_path = os.path.join(new_save_path, new_file_name)
+                    print(new_file_path)
+                    os.rename(copied_file_path, new_file_path)
+                    print("文件重命名成功")
             id += 1
-    print(id)
+
