@@ -101,7 +101,7 @@ class ConvU(nn.Module):
 
 
 class UNet(nn.Module):
-    def __init__(self, c=1, n=16, num_classes=1, norm='in'):
+    def __init__(self, c=1, n=32, num_classes=1, norm='in'):
         super(UNet, self).__init__()
         self.style_bank = StyleFeatureBank()
 
@@ -122,7 +122,6 @@ class UNet(nn.Module):
 
         # 分割输出
         self.seg1 = nn.Conv2d(2 * n, num_classes, 1)
-        self.reconstruction = nn.Conv2d(2 * n, c, kernel_size=1)
 
     def forward(self, x, mode='meta-train', meta_loss=None, meta_step_size=0.001, stop_gradient=False):
         # self.meta_loss = meta_loss
@@ -151,6 +150,7 @@ class UNet(nn.Module):
             seg_out = conv2d(y1, self.seg1.weight, self.seg1.bias, meta_loss=meta_loss,
                              meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None,
                              stride=1, padding=0)
+            seg_out = F.sigmoid(seg_out)
 
             return x2, seg_out
             # return seg_out
@@ -179,12 +179,7 @@ class UNet(nn.Module):
                              meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None,
                              stride=1, padding=0)
 
-            # recon_out = self.reconstruction(y1)
-            # todo 检查？？？？
-            # recon_out = conv2d(meta_styled_y, self.reconstruction.weight, self.reconstruction.bias, meta_loss=meta_loss,
-            #                    meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None)
-            # 多输出，返回分割和重建的输出
-            # return seg_out, recon_out
+            seg_out = F.sigmoid(seg_out)
 
             return x2, seg_out
 
@@ -194,53 +189,81 @@ class UNet(nn.Module):
             y2 = self.convu2(y3, x2)
             y1 = self.convu1(y2, x1)
             seg_out = self.seg1(y1)
+            seg_out = F.sigmoid(seg_out)
 
             return seg_out
 
         else:
             raise ValueError(f"Invalid mode: {self.mode}. Expected 'meta-train_FM' or 'meta-test'.")
 
+    # 计算浅层特征的均值和方差
+class DiceLoss(nn.Module):
+    def __init__(self, smooth=1.0):
+        super(DiceLoss, self).__init__()
+        self.smooth = smooth
+
+    def forward(self, preds, targets):
+        # Flatten the tensors to treat them as 1D vectors
+        preds_flat = preds.view(-1)
+        targets_flat = targets.view(-1)
+
+        # Compute the intersection
+        intersection = (preds_flat * targets_flat).sum()
+
+        # Compute the Dice coefficient
+        dice_coef = (2. * intersection + self.smooth) / (preds_flat.sum() + targets_flat.sum() + self.smooth)
+
+        # Compute the Dice loss
+        dice_loss = 1 - dice_coef
+
+        return dice_loss
+
+
+def dice(pred, mask):
+    pred = pred.view(-1)
+    mask = mask.view(-1)
+    intersection = (pred * mask).sum()
+    return (2. * intersection) / (pred.sum() + mask.sum() + 1e-6)
+
+def compute_mean_and_std(features):
+    mean = features.mean(dim=[2, 3], keepdim=True)  # 均值 [batch_size, channels, 1, 1]
+    std = features.std(dim=[2, 3], keepdim=True)  # 标准差 [batch_size, channels, 1, 1]
+    return mean, std
+
+
+# 动态权重计算
+def compute_dynamic_weight(source_mean, source_std, target_mean, target_std):
+    # 计算源域与目标域间的风格差异
+    delta_mean = torch.abs(source_mean - target_mean).mean()
+    delta_std = torch.abs(source_std - target_std).mean()
+    delta_style = delta_mean + delta_std
+
+    # 使用归一化后的风格差异计算权重 (1 为归一化上限)
+    weight = delta_style / (delta_style + 1e-8)  # 避免除零
+    return weight
+
+
+# 风格对齐损失
+def style_alignment_loss(source_mean, source_std, target_mean, target_std, weight):
+    mean_loss = (source_mean - target_mean).pow(2).mean()
+    std_loss = (source_std - target_std).pow(2).mean()
+    return weight * (mean_loss + std_loss)
+
 
 if __name__ == '__main__':
     batch_size = 6
 
-
-    # 计算浅层特征的均值和方差
-    def compute_mean_and_std(features):
-        mean = features.mean(dim=[2, 3], keepdim=True)  # 均值 [batch_size, channels, 1, 1]
-        std = features.std(dim=[2, 3], keepdim=True)  # 标准差 [batch_size, channels, 1, 1]
-        return mean, std
-
-
-    # 动态权重计算
-    def compute_dynamic_weight(source_mean, source_std, target_mean, target_std):
-        # 计算源域与目标域间的风格差异
-        delta_mean = torch.abs(source_mean - target_mean).mean()
-        delta_std = torch.abs(source_std - target_std).mean()
-        delta_style = delta_mean + delta_std
-
-        # 使用归一化后的风格差异计算权重 (1 为归一化上限)
-        weight = delta_style / (delta_style + 1e-8)  # 避免除零
-        return weight
-
-
-    # 风格对齐损失
-    def style_alignment_loss(source_mean, source_std, target_mean, target_std, weight):
-        mean_loss = (source_mean - target_mean).pow(2).mean()
-        std_loss = (source_std - target_std).pow(2).mean()
-        return weight * (mean_loss + std_loss)
-
-
     # 数据增强后的域划分
     domains = {
-        "source": torch.randn(batch_size, 1, 256, 256),  # 源域 T2
-        "similar_domains": [torch.randn(batch_size, 1, 256, 256) for _ in range(3)],  # S0, S1, S2
-        "dissimilar_domains": [torch.randn(batch_size, 1, 256, 256) for _ in range(3)]  # S3, S4, S5
+        "source": torch.randn(batch_size, 1, 128, 128),  # 源域 T2
+        "similar_domains": [torch.randn(batch_size, 1, 128, 128) for _ in range(3)],  # S0, S1, S2
+        "dissimilar_domains": [torch.randn(batch_size, 1, 128, 128) for _ in range(3)]  # S3, S4, S5
     }
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # 初始化模型、优化器和损失函数
     model = UNet().to(device)
     optimizer = optim.Adam(model.parameters(), lr=1e-4)
+    criterion = DiceLoss()
 
     # 开始训练
     for epoch in range(10):  # 训练 10 个 epoch
@@ -250,6 +273,7 @@ if __name__ == '__main__':
         source_data = domains["source"].to(device)
         source_features, segmentation_output = model(source_data)
         source_mean, source_std = compute_mean_and_std(source_features)
+        label = torch.randn(batch_size, 1, 128, 128, device=device)
 
         # 初始化风格对齐损失
         total_style_loss = 0.0
@@ -282,8 +306,8 @@ if __name__ == '__main__':
 
         # 分割任务损失 (使用 BCE 作为示例)
         # _, segmentation_output = model(source_data)
-        label = torch.randn(batch_size, 1, 256, 256, device=device)
-        segmentation_loss = dice_loss(segmentation_output, label)
+        # segmentation_loss = dice_loss(segmentation_output, label)
+        segmentation_loss = criterion(segmentation_output, label)
 
         # 总损失
         total_loss = segmentation_loss + total_style_loss
@@ -332,8 +356,8 @@ if __name__ == '__main__':
 
         # 分割任务损失 (使用 BCE 作为示例)
         # _, segmentation_output = model(source_data)
-        label = torch.randn(batch_size, 1, 256, 256, device=device)
-        segmentation_loss = dice_loss(segmentation_output, label)
+        # segmentation_loss = dice_loss(segmentation_output, label)
+        segmentation_loss = criterion(segmentation_output, label)
 
         # 总损失
         total_loss = segmentation_loss + total_style_loss
