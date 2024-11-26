@@ -65,6 +65,7 @@ def conv2d(inputs, weight, bias, meta_step_size=0.001, stride=1, padding=0, dila
                 if grad_bias is not None:
                     bias_adapt = bias - grad_bias * meta_step_size
 
+
                 else:
                     bias_adapt = bias
             else:

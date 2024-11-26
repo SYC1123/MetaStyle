@@ -23,6 +23,8 @@ import medpy.metric.binary as mmb
 import torch
 from torch import nn
 
+from train_FM_1.FM2_dataloader import MyBraTSDataset1
+
 
 class DiceLoss(nn.Module):
     def __init__(self, smooth=1.0):
@@ -79,16 +81,20 @@ def style_alignment_loss(source_mean, source_std, target_mean, target_std, weigh
     return weight * (mean_loss + std_loss)
 
 
-def compute_feedback_metrics(model, test_dataloaders, source_metric):
+def compute_feedback_metrics(model, tasks, source_metric):
     """
     计算元测试反馈信号
     这里测试的是源非相似域的性能
     """
     feedback_signals = {0: [], 1: [], 2: []}
+    domain_gaps = {0: [], 1: [], 2: []}
     model.eval()
     with torch.no_grad():
-        for i, (img0, img1, img2, img3, img4, img5, label) in enumerate(
-                tqdm(test_dataloaders, total=len(test_dataloaders), desc=f'Epoch {epoch + 1}')):
+        for data1, data2, data3 in zip(tasks[0], tasks[1], tasks[2]):
+            img3, label = data1
+            img4, label = data2
+            img5, label = data3
+
             label = label.to(device)
             img3 = img3.to(device)
             _, pred = model(img3)
@@ -108,12 +114,13 @@ def compute_feedback_metrics(model, test_dataloaders, source_metric):
     feedback_signals = {k: np.mean(v) for k, v in feedback_signals.items()}
 
     # 跨域性能偏差
-    avg_target_metric = sum(feedback_signals.values()) / len(feedback_signals)
+    # avg_target_metric = sum(feedback_signals.values()) / len(feedback_signals)
     # print("Average target metric:", avg_target_metric)
     # print("Source metric:", source_metric)
-    domain_gap = source_metric - avg_target_metric
-    # print("Domain gap:", domain_gap)
-    return feedback_signals, domain_gap
+    # 计算源域与每一个目标域之间的性能差距
+    for k, v in feedback_signals.items():
+        domain_gaps[k] = source_metric - v
+    return feedback_signals, domain_gaps
 
 
 def compute_source_metric(model, source_dataloader):
@@ -350,6 +357,139 @@ def train_one_epoch(model, optimizer, traindataloder, epoch):
     return total_loss, dynamic_weight
 
 
+def train_one_epoch_1(model, optimizer, epoch, sourcetraindataloader, task_id, traindataloder=None):
+    model.train()
+    loss_list = []
+    dice_list = []
+    # 写入log.txt
+    with open('log.txt', 'a') as f:
+        f.write(f"当前开始训练第{task_id}个任务\n")
+
+    if traindataloder is None:  # 当前只有源域
+        for i, (img0, label) in enumerate(
+                tqdm(sourcetraindataloader, total=len(sourcetraindataloader), desc=f'Epoch {epoch + 1}')):
+            # TODO: 检查梯度
+            optimizer.zero_grad()
+            # 获取源域特征
+            source_data = img0.to(device)
+            label = label.to(device)
+            source_features, segmentation_output = model(source_data)
+            source_mean, source_std = compute_mean_and_std(source_features)  # 得到源域的均值和方差
+
+            total_style_loss = 0.0
+
+            segmentation_loss = criterion(segmentation_output, label)
+            total_loss = segmentation_loss.clone()
+
+            # 该部分是meta-test
+            model.mode = 'meta-test'
+            source_features, segmentation_output = model(source_data, mode='meta-test', meta_loss=total_loss)
+            meta_loss = criterion(segmentation_output, label)
+
+            dice_score = dice(segmentation_output, label)
+            dice_list.append(dice_score.cpu().detach().numpy())
+
+            loss_list.append(meta_loss.item())
+
+            meta_loss.backward()
+            optimizer.step()
+
+    else:  # 当前有源域和目标域
+        for source, target in zip(sourcetraindataloader, traindataloder):
+            optimizer.zero_grad()
+            img0, label = source
+            img1, label1 = target
+            # 获取源域特征
+            source_data = img0.to(device)
+            label = label.to(device)
+            source_features, _ = model(source_data)
+            source_mean, source_std = compute_mean_and_std(source_features)  # 得到源域的均值和方差
+
+            total_style_loss = 0.0
+            # for target_domain:
+            target_data = img1.to(device)
+            target_features, segementation_output = model(target_data)
+            target_mean, target_std = compute_mean_and_std(target_features)
+
+            # 动态计算权重
+            # 当前域和源域之间的偏差权重
+            dynamic_weight = compute_dynamic_weight(source_mean, source_std, target_mean, target_std)
+
+            # 计算风格对齐损失
+            style_loss = style_alignment_loss(source_mean, source_std, target_mean, target_std, dynamic_weight)
+            total_style_loss += style_loss
+
+            # 分割任务损失
+            segmentation_loss = criterion(segementation_output, label)
+
+            # 总损失
+            total_loss = segmentation_loss + total_style_loss
+
+            # 该部分是meta-test
+            model.mode = 'meta-test'
+            source_features, segmentation_output = model(source_data, mode='meta-test', meta_loss=total_loss)
+            meta_loss = criterion(segmentation_output, label)
+
+            dice_score = dice(segmentation_output, label)
+            dice_list.append(dice_score.cpu().detach().numpy())
+
+            loss_list.append(meta_loss.item())
+            meta_loss.backward()
+            optimizer.step()
+
+    loss = np.mean(loss_list)
+    dice_score = np.mean(dice_list)
+    if (epoch + 1) % 10 == 0:
+        # 保存模型
+        torch.save(model.state_dict(), f'./meta_style_unet_{epoch + 1}.pth')
+    # 写入log.txt
+    with open('log.txt', 'a') as f:
+        f.write(f"train—Epoch {epoch + 1}, Total Loss: {loss:.4f}, Dice Score: {dice_score:.4f}\n")
+
+
+def reinforce_training_1(model, optimizer, tasks, domain_gaps, sourcetraindataloader, eta=0.01):
+    """
+    根据反馈信号强化训练
+    """
+    model.train()
+
+    for task_id in range(len(tasks)):
+        for data1, data2 in zip(sourcetraindataloader, tasks[task_id]):
+            img0, label = data1
+            img1, label = data2
+            optimizer.zero_grad()
+
+            # 获取源域特征
+            source_data = img0.to(device)
+            label = label.to(device)
+            source_features, _ = model(source_data)
+            source_mean, source_std = compute_mean_and_std(source_features)  # 得到源域的均值和方差
+
+            total_style_loss = 0.0
+
+            # for target_domain:
+            target_data = img1.to(device)
+            target_features, segementation_output = model(target_data)
+            target_mean, target_std = compute_mean_and_std(target_features)
+
+            # 动态计算权重
+            # 当前域和源域之间的偏差权重
+            dynamic_weight = compute_dynamic_weight(source_mean, source_std, target_mean, target_std)
+
+            # 计算风格对齐损失
+            style_loss = style_alignment_loss(source_mean, source_std, target_mean, target_std, dynamic_weight)
+            total_style_loss += style_loss
+
+            # 分割任务损失
+            segmentation_loss = criterion(segementation_output, label)
+
+            # 总损失
+            total_loss = segmentation_loss + total_style_loss * domain_gaps[task_id]
+
+            total_loss.backward()
+            optimizer.step()
+
+
 if __name__ == '__main__':
     # train_FM()
 
@@ -361,13 +501,16 @@ if __name__ == '__main__':
     # train_case是一个列表，0到13291
     train_case = [i for i in range(len(os.listdir(train_path)) // 6)]
     print(f"train_case:{train_case[-1]}")
-    train_case = train_case[:10]
+    train_case = train_case[:100]
 
-    traindataset = MyBraTSDataset(train_path, train_case)
-    traindataloder = DataLoader(traindataset, batch_size=batch_size, shuffle=True, drop_last=True)
+    tasks = []
+    for domainid in range(6):  # 源域0，相似域1，2，不相似域3，4，5
+        traindataset = MyBraTSDataset1(train_path, train_case, domainid, mode='train')
+        traindataloder = DataLoader(traindataset, batch_size=batch_size, shuffle=True, drop_last=True)
+        tasks.append(traindataloder)
 
     val_case = os.listdir(val_path)
-    val_case = val_case[:5]
+    val_case = val_case[:50]
     valdataset = MyBraTSDataset(val_path, val_case, mode='val')
     valdataloder = DataLoader(valdataset, batch_size=batch_size, shuffle=True, drop_last=True)
 
@@ -378,34 +521,33 @@ if __name__ == '__main__':
     criterion = DiceLoss()
 
     for epoch in range(50):  # 训练 10 个 epoch
-        # 训练
-        total_loss, w_style = train_one_epoch(model, optimizer, traindataloder, epoch)
+        total_loss = 0.0
+        for task_id in range(len(tasks)):
+            # 第一轮是源域的
+            traindataloder = tasks[task_id]
+            if task_id == 0:
+                train_one_epoch_1(model, optimizer, epoch, traindataloder, task_id, traindataloder=None)
+            else:
+                train_one_epoch_1(model, optimizer, epoch, tasks[0], task_id, traindataloder)
 
-        # 验证,这边要通过验证集做学习的反馈，形成学习的闭环
-        # 评估源域性能,得到在验证集上源域的性能
         source_metric = compute_source_metric(model, valdataloder)
         # 写入log.txt
         with open('log.txt', 'a') as f:
             f.write(f"Source metric: {source_metric}\n")
 
-        feedback_signals, domain_gap = compute_feedback_metrics(model, traindataloder, source_metric)
-
+        feedback_signals, domain_gaps = compute_feedback_metrics(model, tasks[3:], source_metric)
         # 输出反馈信号，写入log.txt
-
         with open('log.txt', 'a') as f:
             f.write(
-                f"Epoch {epoch + 1}, Feedback signals from target domains: {feedback_signals}, Domain gap: {domain_gap}\n")
-        # print("Feedback signals from target domains:", feedback_signals)
-        # print("Domain gap:", domain_gap)
+                f"Epoch {epoch + 1}, Feedback signals from target domains: {feedback_signals}, Domain gap: {domain_gaps}\n")
 
-        # 强化训练阶段
-        adjusted_w_style = reinforce_training(
+        # 强化训练阶段,强化非相似域的训练
+        reinforce_training_1(
             model=model,
             optimizer=optimizer,
-            traindataloder=traindataloder,
-            total_loss=total_loss,
-            w_style=w_style,
-            domain_gap=domain_gap,
+            tasks=tasks[3:],
+            domain_gaps=domain_gaps,
+            sourcetraindataloader=tasks[0],
             eta=0.1  # 动态调整学习率
         )
         # # 再次验证泛化能力
