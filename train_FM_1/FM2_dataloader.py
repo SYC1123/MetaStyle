@@ -60,7 +60,7 @@ class MyBraTSDataset1(Dataset):
             mask = mask.unsqueeze(0)  # 增加通道维度
             return mask
 
-        if self.mode == 'train':
+        if self.mode == 'train' or self.mode == 'val':
 
             path = os.path.join(self.path, '{}_{}.npz'.format(case, self.domainid))
 
@@ -118,7 +118,7 @@ class MyBraTSDataset1(Dataset):
 
 if __name__ == '__main__':
     domain = 't2'
-    train_path = f'G:\VS_project\Brats-Demo\processed_2d_train_num_bezier\{domain}'
+    train_path = f'G:\VS_project\Brats-Demo\processed_2d_train_num_bezier\\{domain}'
     # train_case是一个列表，0到13291
     train_case = [i for i in range(len(os.listdir(train_path)) // 6)]
     print(f"train_case:{train_case[-1]}")

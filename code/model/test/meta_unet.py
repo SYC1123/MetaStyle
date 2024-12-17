@@ -121,7 +121,19 @@ class UNet(nn.Module):
         self.convu1 = ConvU(2 * n, norm)
 
         # 分割输出
-        self.seg1 = nn.Conv2d(2 * n, num_classes, 1)
+        self.seg1 = nn.Conv2d(2 * n, 128, 1)
+
+        # 输出
+        self.o = nn.Sequential(
+            nn.Conv2d(128, 64, kernel_size=(3, 3), stride=(1, 1), padding=1),
+            nn.BatchNorm2d(64),
+            nn.ReLU(),
+            nn.Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=1),
+            nn.BatchNorm2d(64),
+            nn.ReLU(),
+            nn.Conv2d(64, num_classes, kernel_size=(3, 3), stride=(1, 1), padding=1),
+            nn.Sigmoid(),
+        )
 
     def forward(self, x, mode='meta-train', meta_loss=None, meta_step_size=0.001, stop_gradient=False):
         # self.meta_loss = meta_loss
@@ -139,9 +151,10 @@ class UNet(nn.Module):
         # print(f"mean,sig,x2{mean.shape, sig.shape, x2.shape}")
         # mean, sig, x2(torch.Size([1, 32, 1, 1]), torch.Size([1, 32, 1, 1]), torch.Size([1, 32, 64, 64]))
 
-        if mode == 'meta-train':
+        if mode == 'meta-train' or mode == 're-train':
             # 元训练特征统计量加入特征bank
-            self.style_bank.add_statistics(mean, sig)
+            if mode=='meta-train':
+                self.style_bank.add_statistics(mean, sig)
             y4 = self.convu4(x5, x4, meta_loss, meta_step_size, stop_gradient)
             y3 = self.convu3(y4, x3, meta_loss, meta_step_size, stop_gradient)
             y2 = self.convu2(y3, x2, meta_loss, meta_step_size, stop_gradient)
@@ -150,7 +163,8 @@ class UNet(nn.Module):
             seg_out = conv2d(y1, self.seg1.weight, self.seg1.bias, meta_loss=meta_loss,
                              meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None,
                              stride=1, padding=0)
-            seg_out = F.sigmoid(seg_out)
+            seg_out=self.o(seg_out)
+            # seg_out = F.sigmoid(seg_out)
 
             return x2, seg_out
             # return seg_out
@@ -162,7 +176,7 @@ class UNet(nn.Module):
             y2 = self.convu2(y3, x2, meta_loss, meta_step_size, stop_gradient)
             y1 = self.convu1(y2, x1, meta_loss, meta_step_size, stop_gradient)
 
-            # 将元训练阶段保存的风
+            # 将元训练阶段保存的风格统计量与当前样本的统计量进行混合
             mean_vector, std_vector = self.style_bank.get_vector()
             # print(
             #     f"mean_vector,std_vector,mean,sig,y1{mean_vector.shape, std_vector.shape, mean.shape, sig.shape, y1.shape}")
@@ -178,8 +192,9 @@ class UNet(nn.Module):
             seg_out = conv2d(meta_styled_y, self.seg1.weight, self.seg1.bias, meta_loss=meta_loss,
                              meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None,
                              stride=1, padding=0)
+            seg_out=self.o(seg_out)
 
-            seg_out = F.sigmoid(seg_out)
+            # seg_out = F.sigmoid(seg_out)
 
             return x2, seg_out
 
@@ -194,7 +209,7 @@ class UNet(nn.Module):
             return seg_out
 
         else:
-            raise ValueError(f"Invalid mode: {self.mode}. Expected 'meta-train_FM' or 'meta-test'.")
+            raise ValueError(f"Invalid mode: {self.mode}. Expected 'meta-train' or 'meta-test'.")
 
     # 计算浅层特征的均值和方差
 class DiceLoss(nn.Module):
