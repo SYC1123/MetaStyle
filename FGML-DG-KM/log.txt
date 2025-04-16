@@ -1,0 +1,1280 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8488, Average Style Loss: 0.0001, Average Dice Score: 0.1512
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8196, Average Style Loss: 0.0003, Average Dice Score: 0.1803
+Epoch 1, Test Dice Score: 0.4671
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8255, Average Style Loss: 0.0013, Average Dice Score: 0.1745
+Epoch 1, Test Dice Score: 0.3936
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.5247, Average Style Loss: 0.0011, Average Dice Score: 0.4752
+Epoch 2, Test Dice Score: 0.3982
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.5780, Average Style Loss: 0.0027, Average Dice Score: 0.4218
+Epoch 3, Test Dice Score: 0.2997
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.3734, Average Style Loss: 0.0012, Average Dice Score: 0.6265
+Epoch 4, Test Dice Score: 0.1752
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.5690, Average Style Loss: 0.0031, Average Dice Score: 0.4309
+Epoch 5, Test Dice Score: 0.6697
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.4131, Average Style Loss: 0.0017, Average Dice Score: 0.5869
+Epoch 6, Test Dice Score: 0.4279
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.3686, Average Style Loss: 0.0003, Average Dice Score: 0.6313
+Epoch 7, Test Dice Score: 0.5164
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.3101, Average Style Loss: 0.0005, Average Dice Score: 0.6898
+Epoch 8, Test Dice Score: 0.4417
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.2709, Average Style Loss: 0.0003, Average Dice Score: 0.7290
+Epoch 9, Test Dice Score: 0.2942
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.2717, Average Style Loss: 0.0004, Average Dice Score: 0.7282
+Epoch 10, Test Dice Score: 0.4462
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8525, Average Style Loss: 0.0025, Average Dice Score: 0.1475
+Epoch 1, Test Dice Score: 0.3730
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.5924, Average Style Loss: 0.0024, Average Dice Score: 0.4075
+Epoch 2, Test Dice Score: 0.2008
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.2924, Average Style Loss: 0.0055, Average Dice Score: 0.7075
+Epoch 3, Test Dice Score: 0.1459
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.2290, Average Style Loss: 0.0112, Average Dice Score: 0.7709
+Epoch 4, Test Dice Score: 0.4448
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.1726, Average Style Loss: 0.0122, Average Dice Score: 0.8273
+Epoch 5, Test Dice Score: 0.4607
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.1782, Average Style Loss: 0.0101, Average Dice Score: 0.8217
+Epoch 6, Test Dice Score: 0.4856
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.1549, Average Style Loss: 0.0112, Average Dice Score: 0.8451
+Epoch 7, Test Dice Score: 0.4814
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.1427, Average Style Loss: 0.0103, Average Dice Score: 0.8572
+Epoch 8, Test Dice Score: 0.4804
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.1451, Average Style Loss: 0.0100, Average Dice Score: 0.8548
+Epoch 9, Test Dice Score: 0.4385
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.1427, Average Style Loss: 0.0084, Average Dice Score: 0.8573
+Epoch 10, Test Dice Score: 0.4816
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 11, Average Meta Loss: 0.1311, Average Style Loss: 0.0082, Average Dice Score: 0.8689
+Epoch 11, Test Dice Score: 0.4871
+Epoch 12 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 12, Average Meta Loss: 0.1283, Average Style Loss: 0.0099, Average Dice Score: 0.8716
+Epoch 12, Test Dice Score: 0.4013
+Epoch 13 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 13, Average Meta Loss: 0.1171, Average Style Loss: 0.0072, Average Dice Score: 0.8829
+Epoch 13, Test Dice Score: 0.4474
+Epoch 14 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8339, Average Style Loss: 0.0006, Average Dice Score: 0.1661
+Epoch 1, Test Dice Score: 0.2829
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.5625, Average Style Loss: 0.0006, Average Dice Score: 0.4374
+Epoch 2, Test Dice Score: 0.1163
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.4421, Average Style Loss: 0.0024, Average Dice Score: 0.5578
+Epoch 3, Test Dice Score: 0.2972
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.2572, Average Style Loss: 0.0016, Average Dice Score: 0.7428
+Epoch 4, Test Dice Score: 0.4959
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.2322, Average Style Loss: 0.0012, Average Dice Score: 0.7677
+Epoch 5, Test Dice Score: 0.4457
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.2050, Average Style Loss: 0.0006, Average Dice Score: 0.7949
+Epoch 6, Test Dice Score: 0.4059
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.3106, Average Style Loss: 0.0005, Average Dice Score: 0.6894
+Epoch 7, Test Dice Score: 0.6898
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.3415, Average Style Loss: 0.0008, Average Dice Score: 0.6584
+Epoch 8, Test Dice Score: 0.3909
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.2155, Average Style Loss: 0.0014, Average Dice Score: 0.7845
+Epoch 9, Test Dice Score: 0.4152
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.1764, Average Style Loss: 0.0025, Average Dice Score: 0.8235
+Epoch 10, Test Dice Score: 0.4152
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 11, Average Meta Loss: 0.1765, Average Style Loss: 0.0019, Average Dice Score: 0.8234
+Epoch 11, Test Dice Score: 0.4434
+Epoch 12 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 12, Average Meta Loss: 0.1741, Average Style Loss: 0.0021, Average Dice Score: 0.8259
+Epoch 12, Test Dice Score: 0.4895
+Epoch 13 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 13, Average Meta Loss: 0.1527, Average Style Loss: 0.0021, Average Dice Score: 0.8473
+Epoch 13, Test Dice Score: 0.5019
+Epoch 14 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 14, Average Meta Loss: 0.1870, Average Style Loss: 0.0023, Average Dice Score: 0.8130
+Epoch 14, Test Dice Score: 0.2313
+Epoch 15 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8236, Average Style Loss: 0.1507, Average Dice Score: 0.1763
+Epoch 1, Test Dice Score: 0.3060
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.5417, Average Style Loss: 0.1469, Average Dice Score: 0.4582
+Epoch 2, Test Dice Score: 0.3245
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8422, Average Style Loss: 0.1223, Average Dice Score: 0.1578
+Epoch 1, Test Dice Score: 0.3652
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.6492, Average Style Loss: 0.1474, Average Dice Score: 0.3507
+Epoch 2, Test Dice Score: 0.3391
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.2633, Average Style Loss: 0.1275, Average Dice Score: 0.7366
+Epoch 3, Test Dice Score: 0.4879
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.2082, Average Style Loss: 0.1235, Average Dice Score: 0.7918
+Epoch 4, Test Dice Score: 0.3567
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.1905, Average Style Loss: 0.1274, Average Dice Score: 0.8094
+Epoch 5, Test Dice Score: 0.3923
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.1676, Average Style Loss: 0.1359, Average Dice Score: 0.8323
+Epoch 6, Test Dice Score: 0.4567
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.1578, Average Style Loss: 0.1214, Average Dice Score: 0.8422
+Epoch 7, Test Dice Score: 0.4562
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.1803, Average Style Loss: 0.1260, Average Dice Score: 0.8196
+Epoch 8, Test Dice Score: 0.4454
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.1619, Average Style Loss: 0.1249, Average Dice Score: 0.8380
+Epoch 9, Test Dice Score: 0.4571
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.1368, Average Style Loss: 0.1207, Average Dice Score: 0.8632
+Epoch 10, Test Dice Score: 0.4202
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 11, Average Meta Loss: 0.1506, Average Style Loss: 0.1290, Average Dice Score: 0.8494
+Epoch 11, Test Dice Score: 0.3479
+Epoch 12 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 12, Average Meta Loss: 0.1386, Average Style Loss: 0.1259, Average Dice Score: 0.8614
+Epoch 12, Test Dice Score: 0.4979
+Epoch 13 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 13, Average Meta Loss: 0.1337, Average Style Loss: 0.1214, Average Dice Score: 0.8662
+Epoch 13, Test Dice Score: 0.4014
+Epoch 14 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 14, Average Meta Loss: 0.1262, Average Style Loss: 0.1199, Average Dice Score: 0.8738
+Epoch 14, Test Dice Score: 0.4619
+Epoch 15 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 15, Average Meta Loss: 0.1200, Average Style Loss: 0.1249, Average Dice Score: 0.8800
+Epoch 15, Test Dice Score: 0.4491
+Epoch 16 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 16, Average Meta Loss: 0.1212, Average Style Loss: 0.1239, Average Dice Score: 0.8788
+Epoch 16, Test Dice Score: 0.4694
+Epoch 17 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 17, Average Meta Loss: 0.1154, Average Style Loss: 0.1180, Average Dice Score: 0.8846
+Epoch 17, Test Dice Score: 0.4720
+Epoch 18 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 18, Average Meta Loss: 0.1197, Average Style Loss: 0.1228, Average Dice Score: 0.8803
+Epoch 18, Test Dice Score: 0.4675
+Epoch 19 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 19, Average Meta Loss: 0.1123, Average Style Loss: 0.1196, Average Dice Score: 0.8877
+Epoch 19, Test Dice Score: 0.4538
+Epoch 20 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 20, Average Meta Loss: 0.1115, Average Style Loss: 0.1210, Average Dice Score: 0.8885
+Epoch 20, Test Dice Score: 0.4848
+Epoch 21 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 21, Average Meta Loss: 0.1014, Average Style Loss: 0.1196, Average Dice Score: 0.8986
+Epoch 21, Test Dice Score: 0.5271
+Epoch 22 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 22, Average Meta Loss: 0.1036, Average Style Loss: 0.1162, Average Dice Score: 0.8964
+Epoch 22, Test Dice Score: 0.4704
+Epoch 23 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 23, Average Meta Loss: 0.1026, Average Style Loss: 0.1245, Average Dice Score: 0.8974
+Epoch 23, Test Dice Score: 0.4871
+Epoch 24 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 24, Average Meta Loss: 0.1018, Average Style Loss: 0.1111, Average Dice Score: 0.8982
+Epoch 24, Test Dice Score: 0.4823
+Epoch 25 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 25, Average Meta Loss: 0.0948, Average Style Loss: 0.1245, Average Dice Score: 0.9052
+Epoch 25, Test Dice Score: 0.4929
+Epoch 26 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 26, Average Meta Loss: 0.1044, Average Style Loss: 0.1290, Average Dice Score: 0.8956
+Epoch 26, Test Dice Score: 0.5557
+Epoch 27 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 27, Average Meta Loss: 0.0951, Average Style Loss: 0.1206, Average Dice Score: 0.9048
+Epoch 27, Test Dice Score: 0.5138
+Epoch 28 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 28, Average Meta Loss: 0.1049, Average Style Loss: 0.1236, Average Dice Score: 0.8951
+Epoch 28, Test Dice Score: 0.5254
+Epoch 29 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 29, Average Meta Loss: 0.1154, Average Style Loss: 0.1233, Average Dice Score: 0.8846
+Epoch 29, Test Dice Score: 0.4905
+Epoch 30 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 30, Average Meta Loss: 0.1089, Average Style Loss: 0.1203, Average Dice Score: 0.8911
+Epoch 30, Test Dice Score: 0.5297
+Epoch 31 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 31, Average Meta Loss: 0.1056, Average Style Loss: 0.1131, Average Dice Score: 0.8944
+Epoch 31, Test Dice Score: 0.4906
+Epoch 32 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 32, Average Meta Loss: 0.1028, Average Style Loss: 0.1170, Average Dice Score: 0.8972
+Epoch 32, Test Dice Score: 0.4829
+Epoch 33 开始训练
+当前任务 ID: 0 (域 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.8261, Average Style Loss: 0.1389, Average Dice Score: 0.1739
+Epoch 1, Test Dice Score: 0.2865
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.6192, Average Style Loss: 0.1344, Average Dice Score: 0.3807
+Epoch 2, Test Dice Score: 0.2663
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.3365, Average Style Loss: 0.1551, Average Dice Score: 0.6634
+Epoch 3, Test Dice Score: 0.1320
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.3551, Average Style Loss: 0.1340, Average Dice Score: 0.6448
+Epoch 4, Test Dice Score: 0.0575
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.3588, Average Style Loss: 0.1557, Average Dice Score: 0.6411
+Epoch 5, Test Dice Score: 0.4772
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.2684, Average Style Loss: 0.1336, Average Dice Score: 0.7315
+Epoch 6, Test Dice Score: 0.4455
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.2137, Average Style Loss: 0.1487, Average Dice Score: 0.7862
+Epoch 7, Test Dice Score: 0.2855
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.7728, Average Style Loss: 0.1358, Average Dice Score: 0.1548
+Epoch 1, Test Dice Score: 0.1597
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.5742, Average Style Loss: 0.1503, Average Dice Score: 0.3732
+Epoch 2, Test Dice Score: 0.0545
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.6254, Average Style Loss: 0.1492, Average Dice Score: 0.2634
+Epoch 3, Test Dice Score: 0.7772
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.4519, Average Style Loss: 0.1831, Average Dice Score: 0.4723
+Epoch 4, Test Dice Score: 0.3566
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.4011, Average Style Loss: 0.2192, Average Dice Score: 0.5555
+Epoch 5, Test Dice Score: 0.4098
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.2430, Average Style Loss: 0.2136, Average Dice Score: 0.7505
+Epoch 6, Test Dice Score: 0.5505
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.2324, Average Style Loss: 0.1845, Average Dice Score: 0.7536
+Epoch 7, Test Dice Score: 0.4790
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.1819, Average Style Loss: 0.1510, Average Dice Score: 0.8098
+Epoch 8, Test Dice Score: 0.4868
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.1597, Average Style Loss: 0.1387, Average Dice Score: 0.8362
+Epoch 9, Test Dice Score: 0.5056
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.1728, Average Style Loss: 0.1639, Average Dice Score: 0.8228
+Epoch 10, Test Dice Score: 0.4028
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 11, Average Meta Loss: 0.1731, Average Style Loss: 0.1562, Average Dice Score: 0.8231
+Epoch 11, Test Dice Score: 0.4745
+Epoch 12 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 12, Average Meta Loss: 0.1610, Average Style Loss: 0.1506, Average Dice Score: 0.8346
+Epoch 12, Test Dice Score: 0.4338
+Epoch 13 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 13, Average Meta Loss: 0.1451, Average Style Loss: 0.1505, Average Dice Score: 0.8551
+Epoch 13, Test Dice Score: 0.5234
+Epoch 14 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 14, Average Meta Loss: 0.1422, Average Style Loss: 0.1428, Average Dice Score: 0.8567
+Epoch 14, Test Dice Score: 0.5425
+Epoch 15 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 15, Average Meta Loss: 0.1338, Average Style Loss: 0.1381, Average Dice Score: 0.8648
+Epoch 15, Test Dice Score: 0.5297
+Epoch 16 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.7788, Average Style Loss: 0.1444, Average Dice Score: 0.1513
+Epoch 1, Test Dice Score: 0.2163
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.6526, Average Style Loss: 0.1382, Average Dice Score: 0.2872
+Epoch 2, Test Dice Score: 0.2635
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.3695, Average Style Loss: 0.1397, Average Dice Score: 0.6062
+Epoch 3, Test Dice Score: 0.1562
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.2182, Average Style Loss: 0.1316, Average Dice Score: 0.7725
+Epoch 4, Test Dice Score: 0.3434
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.2236, Average Style Loss: 0.1705, Average Dice Score: 0.7585
+Epoch 5, Test Dice Score: 0.0001
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.4859, Average Style Loss: 0.1540, Average Dice Score: 0.4121
+Epoch 6, Test Dice Score: 0.0273
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.4149, Average Style Loss: 0.1404, Average Dice Score: 0.5257
+Epoch 7, Test Dice Score: 0.0664
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.2353, Average Style Loss: 0.1446, Average Dice Score: 0.7472
+Epoch 8, Test Dice Score: 0.0181
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.1783, Average Style Loss: 0.1346, Average Dice Score: 0.8115
+Epoch 9, Test Dice Score: 0.0038
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.1629, Average Style Loss: 0.1441, Average Dice Score: 0.8308
+Epoch 10, Test Dice Score: 0.0413
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 11, Average Meta Loss: 0.1732, Average Style Loss: 0.1422, Average Dice Score: 0.8171
+Epoch 11, Test Dice Score: 0.1908
+Epoch 12 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 12, Average Meta Loss: 0.1895, Average Style Loss: 0.1441, Average Dice Score: 0.7984
+Epoch 12, Test Dice Score: 0.0003
+Epoch 13 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 13, Average Meta Loss: 0.1641, Average Style Loss: 0.1484, Average Dice Score: 0.8297
+Epoch 13, Test Dice Score: 0.0005
+Epoch 14 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 14, Average Meta Loss: 0.1466, Average Style Loss: 0.1450, Average Dice Score: 0.8531
+Epoch 14, Test Dice Score: 0.0011
+Epoch 15 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.2287, Average Style Loss: 0.1164, Average Dice Score: 0.1041
+Epoch 1, Test Dice Score: 0.2610
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.0932, Average Style Loss: 0.1534, Average Dice Score: 0.1828
+Epoch 2, Test Dice Score: 0.3234
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.0704, Average Style Loss: 0.1403, Average Dice Score: 0.3065
+Epoch 3, Test Dice Score: 0.0454
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.0511, Average Style Loss: 0.1321, Average Dice Score: 0.5235
+Epoch 4, Test Dice Score: 0.0391
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.0446, Average Style Loss: 0.1331, Average Dice Score: 0.6042
+Epoch 5, Test Dice Score: 0.0578
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.0424, Average Style Loss: 0.1431, Average Dice Score: 0.6758
+Epoch 6, Test Dice Score: 0.0603
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.0520, Average Style Loss: 0.1476, Average Dice Score: 0.6347
+Epoch 7, Test Dice Score: 0.0702
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.0390, Average Style Loss: 0.1289, Average Dice Score: 0.7176
+Epoch 8, Test Dice Score: 0.0787
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.0363, Average Style Loss: 0.1369, Average Dice Score: 0.7291
+Epoch 9, Test Dice Score: 0.0834
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.0367, Average Style Loss: 0.1261, Average Dice Score: 0.7524
+Epoch 10, Test Dice Score: 0.1687
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 11, Average Meta Loss: 0.0357, Average Style Loss: 0.1387, Average Dice Score: 0.7454
+Epoch 11, Test Dice Score: 0.1511
+Epoch 12 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 12, Average Meta Loss: 0.0364, Average Style Loss: 0.1347, Average Dice Score: 0.7544
+Epoch 12, Test Dice Score: 0.1292
+Epoch 13 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 1, Average Meta Loss: 0.2572, Average Style Loss: 0.1405, Average Dice Score: 0.1009
+Epoch 1, Test Dice Score: 0.1312
+Epoch 2 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 2, Average Meta Loss: 0.0629, Average Style Loss: 0.1743, Average Dice Score: 0.3207
+Epoch 2, Test Dice Score: 0.2721
+Epoch 3 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 3, Average Meta Loss: 0.0530, Average Style Loss: 0.1859, Average Dice Score: 0.4150
+Epoch 3, Test Dice Score: 0.2162
+Epoch 4 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 4, Average Meta Loss: 0.0415, Average Style Loss: 0.1873, Average Dice Score: 0.5670
+Epoch 4, Test Dice Score: 0.2396
+Epoch 5 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 5, Average Meta Loss: 0.0338, Average Style Loss: 0.1914, Average Dice Score: 0.6490
+Epoch 5, Test Dice Score: 0.0473
+Epoch 6 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 6, Average Meta Loss: 0.0297, Average Style Loss: 0.2185, Average Dice Score: 0.6952
+Epoch 6, Test Dice Score: 0.2072
+Epoch 7 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 7, Average Meta Loss: 0.0263, Average Style Loss: 0.2109, Average Dice Score: 0.7180
+Epoch 7, Test Dice Score: 0.0109
+Epoch 8 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 8, Average Meta Loss: 0.0264, Average Style Loss: 0.2270, Average Dice Score: 0.7323
+Epoch 8, Test Dice Score: 0.0092
+Epoch 9 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 9, Average Meta Loss: 0.0211, Average Style Loss: 0.2296, Average Dice Score: 0.7661
+Epoch 9, Test Dice Score: 0.1324
+Epoch 10 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)
+当前任务 ID: 5 (域 5)
+Epoch 10, Average Meta Loss: 0.0199, Average Style Loss: 0.2176, Average Dice Score: 0.7858
+Epoch 10, Test Dice Score: 0.0998
+Epoch 11 开始训练
+当前任务 ID: 0 (域 0)
+当前任务 ID: 1 (域 1)
+当前任务 ID: 2 (域 2)
+当前任务 ID: 3 (域 3)
+当前任务 ID: 4 (域 4)

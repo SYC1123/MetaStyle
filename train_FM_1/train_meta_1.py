@@ -338,12 +338,21 @@ def reinforce_training(model, optimizer, epoch, tasks,domain_gaps):
 
         # 根据权重从每个DataLoader中采样数据
         for j, dataloader in enumerate([tasks[0], tasks[1], tasks[2], tasks[3], tasks[4], tasks[5]]):
-            if random.random() < domain_gaps[j]:
+            task_len=len(dataloader)
+            num=int(domain_gaps[j]*task_len)
+            if num==0:
+                num=1
+            for _ in range(num):
                 data, target = next(iter(dataloader))
                 batch_data.append(data)
                 batch_targets.append(target)
-        if len(batch_data) == 0:
-            continue
+
+        #     if random.random() < domain_gaps[j]:
+        #         data, target = next(iter(dataloader))
+        #         batch_data.append(data)
+        #         batch_targets.append(target)
+        # if len(batch_data) == 0:
+        #     continue
         batch_data = torch.cat(batch_data, dim=0)
         batch_targets = torch.cat(batch_targets, dim=0)
 
@@ -368,9 +377,9 @@ def reinforce_training(model, optimizer, epoch, tasks,domain_gaps):
 
     loss = np.mean(loss_list)
     dice_score = np.mean(dice_list)
-    if (epoch + 1) % 10 == 0:
-        # 保存模型
-        torch.save(model.state_dict(), f'./meta_style_unet_re_{epoch + 1}.pth')
+    # if (epoch + 1) % 10 == 0:
+    #     # 保存模型
+    #     torch.save(model.state_dict(), f'./meta_style_unet_re_{epoch + 1}.pth')
     with open('log.txt', 'a') as f:
         f.write(f"retrain—Epoch {epoch + 1},Total Loss: {loss:.4f}, Dice Score: {dice_score:.4f}\n")
 
@@ -458,4 +467,4 @@ if __name__ == '__main__':
             f.write(f"Updated source metric: {source_metric}\n")
             f.write("************************************\n")
         # 保存模型
-        torch.save(model.state_dict(), f'./final_model.pth')
+        # torch.save(model.state_dict(), f'./final_model.pth')

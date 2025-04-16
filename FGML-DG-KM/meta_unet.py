@@ -4,12 +4,16 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-from code.model.meta.ops import *
-from code.util.losses import dice_loss
-from code.util.meta_style import StyleFeatureBank, compute_statistics, mix_statistics, apply_meta_style
+from ops import *
+# from code.util.losses import dice_loss
+# from meta_style import StyleFeatureBank
+from StyleFeatureBank import StyleFeatureBank
 
+# 钩子函数定义（用于自动提取统计）
+def hook_fn(module, input, output, style_bank, layer_name):
+    mean, std = style_bank.compute_statistics(output)  # 使用 StyleFeatureBank 的 compute_statistics
+    style_bank.add_statistics(layer_name, mean, std)
 
-# from model.meta.ops import *
 
 class ConvD(nn.Module):
     def __init__(self, inplanes, planes, norm='in', first=False):
@@ -103,11 +107,9 @@ class ConvU(nn.Module):
 class UNet(nn.Module):
     def __init__(self, c=1, n=32, num_classes=1, norm='in'):
         super(UNet, self).__init__()
-        self.style_bank = StyleFeatureBank()
-
-        # meta_loss = None
-        # meta_step_size = 0.001
-        # stop_gradient = False
+        self.mode='meta-train'
+        self.style_bank=StyleFeatureBank()  # 初始化风格特征库
+        self.style_bank_old=StyleFeatureBank()  # 初始化旧风格特征库
 
         self.convd1 = ConvD(c, n, norm, first=True)
         self.convd2 = ConvD(n, 2 * n, norm)
@@ -135,26 +137,27 @@ class UNet(nn.Module):
             nn.Sigmoid(),
         )
 
-    def forward(self, x, mode='meta-train', meta_loss=None, meta_step_size=0.001, stop_gradient=False):
-        # self.meta_loss = meta_loss
-        # self.meta_step_size = meta_step_size
-        # self.stop_gradient = stop_gradient
-        # 前两个先不加
+        # 注册钩子到指定层（例如 convd2 和 convd3），可选。如果启用，钩子会自动提取统计
+        self.hook_handles = []
+        self.hook_handles.append(self.convd2.register_forward_hook(
+            lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd2') if self.mode != 'get_source' else None))
+        self.hook_handles.append(self.convd3.register_forward_hook(
+            lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd3')if self.mode != 'get_source' else None))
 
-        x1 = self.convd1(x)
-        x2 = self.convd2(x1)
-        x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)
-        x4 = self.convd4(x3, meta_loss, meta_step_size, stop_gradient)
-        x5 = self.convd5(x4, meta_loss, meta_step_size, stop_gradient)
-        # 获取特征统计量
-        mean, sig = compute_statistics(x2)
-        # print(f"mean,sig,x2{mean.shape, sig.shape, x2.shape}")
-        # mean, sig, x2(torch.Size([1, 32, 1, 1]), torch.Size([1, 32, 1, 1]), torch.Size([1, 32, 64, 64]))
-
-        if mode == 'meta-train' or mode == 're-train':
+    def forward(self, x, task_id=None,meta_loss=None, meta_step_size=0.001, stop_gradient=False):
+        if self.mode in ['meta-train' , 're-train', 'get_source']:
+            # 下采样路径
+            x1 = self.convd1(x, meta_loss, meta_step_size, stop_gradient)  # 钩子不在这里触发，因为 convd1 没有注册
+            x2 = self.convd2(x1, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd2 输出
+            x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd3 输出
+            x4 = self.convd4(x3, meta_loss, meta_step_size, stop_gradient)
+            x5 = self.convd5(x4, meta_loss, meta_step_size, stop_gradient)
+            # print(self.mode)
             # 元训练特征统计量加入特征bank
-            if mode=='meta-train':
-                self.style_bank.add_statistics(mean, sig)
+            # if self.mode=='meta-train':
+            #     mean, std = self.style_bank.compute_statistics(x2)  # 手动计算 x2 统计（可选，如果钩子已覆盖，可以注释）
+            #     self.style_bank.add_statistics('convd2_manual', mean, std)  # 添加到 style_bank（使用自定义层名避免冲突）
+            # 上采样路径
             y4 = self.convu4(x5, x4, meta_loss, meta_step_size, stop_gradient)
             y3 = self.convu3(y4, x3, meta_loss, meta_step_size, stop_gradient)
             y2 = self.convu2(y3, x2, meta_loss, meta_step_size, stop_gradient)
@@ -164,52 +167,115 @@ class UNet(nn.Module):
                              meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None,
                              stride=1, padding=0)
             seg_out=self.o(seg_out)
-            # seg_out = F.sigmoid(seg_out)
 
             return x2, seg_out
-            # return seg_out
 
-        elif mode == 'meta-test':
-            # 解码器
+        elif self.mode == 'meta-test':
+            # 下采样路径
+            x1 = self.convd1(x, meta_loss, meta_step_size, stop_gradient)  # 钩子不在这里触发，因为 convd1 没有注册
+
+            if task_id!= 0:
+                # 获取并混合统计：使用 style_bank 的方法
+                mean_vector, std_vector = self.style_bank_old.get_vector('convd2')  # 从 convd2 层获取；可以扩展到其他层
+                # print('mean_vector:', mean_vector.shape) # [total_batch, 64, 1, 1] [24, 64, 1, 1]
+                # print('std_vector:', std_vector.shape) # [total_batch, 64, 1, 1] [24, 64, 1, 1]
+
+            x2 = self.convd2(x1, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd2 输出
+            if task_id!= 0:
+                target_mean, target_std = self.style_bank_old.compute_statistics(x2)  # 计算当前X2的统计作为目标
+                # print('target_mean:', target_mean.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+                # print('target_std:', target_std.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+                mixed_mean, mixed_std = self.style_bank_old.mix_statistics(target_mean, target_std, mean_vector, std_vector)
+                # print('mixed_mean:', mixed_mean.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+                # print('mixed_std:', mixed_std.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+                # 应用混合统计
+                x2 = self.style_bank_old.apply_meta_style(x2, mixed_mean, mixed_std)
+
+            if task_id!= 0:
+                mean_vector, std_vector = self.style_bank_old.get_vector('convd3')  # 假设从 convd2 层获取；可以扩展到其他层
+                # print('mean_vector:', mean_vector.shape) # [total_batch, 128, 1, 1] [24, 128, 1, 1]
+                # print('std_vector:', std_vector.shape)  # [total_batch, 128, 1, 1] [24, 128, 1, 1]
+            x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd3 输出
+            if task_id!= 0:
+                target_mean, target_std = self.style_bank_old.compute_statistics(x3)  # 计算当前X3的统计作为目标
+                # print('target_mean:', target_mean.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+                # print('target_std:', target_std.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+                mixed_mean, mixed_std = self.style_bank_old.mix_statistics(target_mean, target_std, mean_vector, std_vector)
+                # print('mixed_mean:', mixed_mean.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+                # print('mixed_std:', mixed_std.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+                # 应用混合统计
+                x3 = self.style_bank_old.apply_meta_style(x3, mixed_mean, mixed_std)
+
+            x4 = self.convd4(x3, meta_loss, meta_step_size, stop_gradient)
+            x5 = self.convd5(x4, meta_loss, meta_step_size, stop_gradient)
+
+            # 上采样路径
             y4 = self.convu4(x5, x4, meta_loss, meta_step_size, stop_gradient)
             y3 = self.convu3(y4, x3, meta_loss, meta_step_size, stop_gradient)
             y2 = self.convu2(y3, x2, meta_loss, meta_step_size, stop_gradient)
             y1 = self.convu1(y2, x1, meta_loss, meta_step_size, stop_gradient)
 
-            # 将元训练阶段保存的风格统计量与当前样本的统计量进行混合
-            mean_vector, std_vector = self.style_bank.get_vector()
-            # print(
-            #     f"mean_vector,std_vector,mean,sig,y1{mean_vector.shape, std_vector.shape, mean.shape, sig.shape, y1.shape}")
-            # 随机从 a 中选择 26 个样本
-            train_batch_size = mean_vector.shape[0]
-            test_batch_size = mean.shape[0]
-            idx = torch.randperm(train_batch_size)[:test_batch_size]
-            mean_vector = mean_vector[idx, :, :, :]  # 从 a 中随机选择 26 个样本
-            std_vector = std_vector[idx, :, :, :]
-            mixed_mean, mixed_std = mix_statistics(mean, sig, mean_vector, std_vector)
-            meta_styled_y = apply_meta_style(y1, mixed_mean, mixed_std)
 
-            seg_out = conv2d(meta_styled_y, self.seg1.weight, self.seg1.bias, meta_loss=meta_loss,
+            seg_out = conv2d(y1, self.seg1.weight, self.seg1.bias, meta_loss=meta_loss,
                              meta_step_size=meta_step_size, stop_gradient=stop_gradient, kernel_size=None,
                              stride=1, padding=0)
             seg_out=self.o(seg_out)
 
-            # seg_out = F.sigmoid(seg_out)
-
             return x2, seg_out
 
-        elif mode == 'eval':
+        elif self.mode == 'eval':
+            # 下采样路径
+            x1 = self.convd1(x, meta_loss, meta_step_size, stop_gradient)
+            x2 = self.convd2(x1, meta_loss, meta_step_size, stop_gradient)
+            x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)
+            x4 = self.convd4(x3, meta_loss, meta_step_size, stop_gradient)
+            x5 = self.convd5(x4, meta_loss, meta_step_size, stop_gradient)
+            # 上采样路径（无 meta 参数）
             y4 = self.convu4(x5, x4)
             y3 = self.convu3(y4, x3)
             y2 = self.convu2(y3, x2)
             y1 = self.convu1(y2, x1)
+            # # 在 eval 模式下，使用保存的统计（例如从 convd2）
+            # if 'convd2' in self.style_bank.feature_stats:  # 检查是否有统计
+            #     mean_style, std_style = self.style_bank.get_avg_stats('convd2')  # 获取平均统计
+            #     mean_style=mean_style.to(y1.device)  # 确保在相同设备上
+            #     std_style=std_style.to(y1.device)  # 确保在相同设备上
+            #     # 应用 AdaIN 到 y1
+            #     y1 = self.style_bank.apply_meta_style(y1, mean_style, std_style)
+
             seg_out = self.seg1(y1)
-            seg_out = F.sigmoid(seg_out)
+            seg_out = self.o(seg_out)
 
             return seg_out
 
         else:
             raise ValueError(f"Invalid mode: {self.mode}. Expected 'meta-train' or 'meta-test'.")
+
+    def set_mode(self, mode):
+        self.mode = mode
+
+    def save_style_bank(self, path):
+        """保存 style_bank 中的统计到文件"""
+        self.style_bank.save_style_bank(path)
+
+    def load_style_bank(self, path):
+        """加载保存的统计"""
+        self.style_bank_old.load_style_bank(path)
+
+    def enable_hooks(self, enable=True):
+        """启用或禁用钩子（可选，用于控制是否自动提取统计）"""
+        if enable:
+            # 注册钩子（如果尚未注册）
+            if not self.hook_handles:
+                self.hook_handles.append(self.convd2.register_forward_hook(
+                    lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd2')))
+                self.hook_handles.append(self.convd3.register_forward_hook(
+                    lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd3')))
+        else:
+            # 移除钩子
+            for handle in self.hook_handles:
+                handle.remove()
+            self.hook_handles = []
 
     # 计算浅层特征的均值和方差
 class DiceLoss(nn.Module):
@@ -263,120 +329,3 @@ def style_alignment_loss(source_mean, source_std, target_mean, target_std, weigh
     mean_loss = (source_mean - target_mean).pow(2).mean()
     std_loss = (source_std - target_std).pow(2).mean()
     return weight * (mean_loss + std_loss)
-
-
-if __name__ == '__main__':
-    batch_size = 6
-
-    # 数据增强后的域划分
-    domains = {
-        "source": torch.randn(batch_size, 1, 128, 128),  # 源域 T2
-        "similar_domains": [torch.randn(batch_size, 1, 128, 128) for _ in range(3)],  # S0, S1, S2
-        "dissimilar_domains": [torch.randn(batch_size, 1, 128, 128) for _ in range(3)]  # S3, S4, S5
-    }
-    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-    # 初始化模型、优化器和损失函数
-    model = UNet().to(device)
-    optimizer = optim.Adam(model.parameters(), lr=1e-4)
-    criterion = DiceLoss()
-
-    # 开始训练
-    for epoch in range(10):  # 训练 10 个 epoch
-        optimizer.zero_grad()
-
-        # 获取源域特征
-        source_data = domains["source"].to(device)
-        source_features, segmentation_output = model(source_data)
-        source_mean, source_std = compute_mean_and_std(source_features)
-        label = torch.randn(batch_size, 1, 128, 128, device=device)
-
-        # 初始化风格对齐损失
-        total_style_loss = 0.0
-
-        # 相似域
-        for similar_domain in domains["similar_domains"]:
-            similar_domain = similar_domain.to(device)
-            target_features, _ = model(similar_domain)
-            target_mean, target_std = compute_mean_and_std(target_features)
-
-            # 动态计算权重
-            dynamic_weight = compute_dynamic_weight(source_mean, source_std, target_mean, target_std)
-
-            # 计算风格对齐损失
-            style_loss = style_alignment_loss(source_mean, source_std, target_mean, target_std, dynamic_weight)
-            total_style_loss += style_loss
-
-        # 不相似域
-        for dissimilar_domain in domains["dissimilar_domains"]:
-            dissimilar_domain = dissimilar_domain.to(device)
-            target_features, _ = model(dissimilar_domain)
-            target_mean, target_std = compute_mean_and_std(target_features)
-
-            # 动态计算权重
-            dynamic_weight = compute_dynamic_weight(source_mean, source_std, target_mean, target_std)
-
-            # 计算风格对齐损失
-            style_loss = style_alignment_loss(source_mean, source_std, target_mean, target_std, dynamic_weight)
-            total_style_loss += style_loss
-
-        # 分割任务损失 (使用 BCE 作为示例)
-        # _, segmentation_output = model(source_data)
-        # segmentation_loss = dice_loss(segmentation_output, label)
-        segmentation_loss = criterion(segmentation_output, label)
-
-        # 总损失
-        total_loss = segmentation_loss + total_style_loss
-        # total_loss.backward()
-        # optimizer.step()
-
-        print(f"Epoch {epoch + 1}, Total Loss: {total_loss.item():.4f}, Style Loss: {total_style_loss.item():.4f}")
-
-        # meta-test部分
-
-        model.mode = 'meta-test'
-        # 获取源域特征
-        source_data = domains["source"].to(device)
-        source_features, segmentation_output = model(source_data, mode='meta-test', meta_loss=total_loss)
-        # print('segmentation_output:', segmentation_output.shape)
-        source_mean, source_std = compute_mean_and_std(source_features)
-
-        # 初始化风格对齐损失
-        total_style_loss = 0.0
-
-        # 相似域
-        for similar_domain in domains["similar_domains"]:
-            similar_domain = similar_domain.to(device)
-            target_features, _ = model(similar_domain, mode='meta-test', meta_loss=total_loss)
-            target_mean, target_std = compute_mean_and_std(target_features)
-
-            # 动态计算权重
-            dynamic_weight = compute_dynamic_weight(source_mean, source_std, target_mean, target_std)
-
-            # 计算风格对齐损失
-            style_loss = style_alignment_loss(source_mean, source_std, target_mean, target_std, dynamic_weight)
-            total_style_loss += style_loss
-
-        # 不相似域
-        for dissimilar_domain in domains["dissimilar_domains"]:
-            dissimilar_domain = dissimilar_domain.to(device)
-            target_features, _ = model(dissimilar_domain, mode='meta-test', meta_loss=total_loss)
-            target_mean, target_std = compute_mean_and_std(target_features)
-
-            # 动态计算权重
-            dynamic_weight = compute_dynamic_weight(source_mean, source_std, target_mean, target_std)
-
-            # 计算风格对齐损失
-            style_loss = style_alignment_loss(source_mean, source_std, target_mean, target_std, dynamic_weight)
-            total_style_loss += style_loss
-
-        # 分割任务损失 (使用 BCE 作为示例)
-        # _, segmentation_output = model(source_data)
-        # segmentation_loss = dice_loss(segmentation_output, label)
-        segmentation_loss = criterion(segmentation_output, label)
-
-        # 总损失
-        total_loss = segmentation_loss + total_style_loss
-        print(f"Epoch {epoch + 1}, Total Loss: {total_loss.item():.4f}, Style Loss: {total_style_loss.item():.4f}")
-        optimizer.zero_grad()
-        total_loss.backward()
-        optimizer.step()
