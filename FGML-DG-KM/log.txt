@@ -1278,3 +1278,4970 @@ Epoch 11 ©╙й╪я╣а╥
 ╣╠г╟хннЯ ID: 2 (сР 2)
 ╣╠г╟хннЯ ID: 3 (сР 3)
 ╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0175, Average Style Loss: 0.2356, Average Dice Score: 0.8147
+Epoch 11, Test Dice Score: 0.0306
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0183, Average Style Loss: 0.2229, Average Dice Score: 0.8096
+Epoch 12, Test Dice Score: 0.2157
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0152, Average Style Loss: 0.2318, Average Dice Score: 0.8295
+Epoch 13, Test Dice Score: 0.3834
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0140, Average Style Loss: 0.2164, Average Dice Score: 0.8445
+Epoch 14, Test Dice Score: 0.2907
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0141, Average Style Loss: 0.2165, Average Dice Score: 0.8542
+Epoch 15, Test Dice Score: 0.4188
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0140, Average Style Loss: 0.2234, Average Dice Score: 0.8557
+Epoch 16, Test Dice Score: 0.4284
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0118, Average Style Loss: 0.2213, Average Dice Score: 0.8658
+Epoch 17, Test Dice Score: 0.3560
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0123, Average Style Loss: 0.2189, Average Dice Score: 0.8671
+Epoch 18, Test Dice Score: 0.3653
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0125, Average Style Loss: 0.2249, Average Dice Score: 0.8643
+Epoch 19, Test Dice Score: 0.3919
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0111, Average Style Loss: 0.2191, Average Dice Score: 0.8758
+Epoch 20, Test Dice Score: 0.4338
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0107, Average Style Loss: 0.2177, Average Dice Score: 0.8824
+Epoch 21, Test Dice Score: 0.3608
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0105, Average Style Loss: 0.2123, Average Dice Score: 0.8856
+Epoch 22, Test Dice Score: 0.3979
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0108, Average Style Loss: 0.2134, Average Dice Score: 0.8833
+Epoch 23, Test Dice Score: 0.4221
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0097, Average Style Loss: 0.2195, Average Dice Score: 0.8922
+Epoch 24, Test Dice Score: 0.3738
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, Average Meta Loss: 0.0103, Average Style Loss: 0.2150, Average Dice Score: 0.8901
+Epoch 25, Test Dice Score: 0.0819
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, Average Meta Loss: 0.0107, Average Style Loss: 0.2214, Average Dice Score: 0.8867
+Epoch 26, Test Dice Score: 0.4300
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, Average Meta Loss: 0.0105, Average Style Loss: 0.2081, Average Dice Score: 0.8839
+Epoch 27, Test Dice Score: 0.4197
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, Average Meta Loss: 0.0092, Average Style Loss: 0.2088, Average Dice Score: 0.9002
+Epoch 28, Test Dice Score: 0.3517
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, Average Meta Loss: 0.0100, Average Style Loss: 0.2044, Average Dice Score: 0.8925
+Epoch 29, Test Dice Score: 0.3773
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, Average Meta Loss: 0.0089, Average Style Loss: 0.2037, Average Dice Score: 0.9009
+Epoch 30, Test Dice Score: 0.3942
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 31, Average Meta Loss: 0.0082, Average Style Loss: 0.2090, Average Dice Score: 0.9092
+Epoch 31, Test Dice Score: 0.4034
+Epoch 32 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 32, Average Meta Loss: 0.0084, Average Style Loss: 0.2073, Average Dice Score: 0.9091
+Epoch 32, Test Dice Score: 0.4474
+Epoch 33 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 33, Average Meta Loss: 0.0079, Average Style Loss: 0.2054, Average Dice Score: 0.9130
+Epoch 33, Test Dice Score: 0.4181
+Epoch 34 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 34, Average Meta Loss: 0.0080, Average Style Loss: 0.2041, Average Dice Score: 0.9135
+Epoch 34, Test Dice Score: 0.3781
+Epoch 35 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 35, Average Meta Loss: 0.0087, Average Style Loss: 0.2061, Average Dice Score: 0.9098
+Epoch 35, Test Dice Score: 0.3762
+Epoch 36 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 36, Average Meta Loss: 0.0109, Average Style Loss: 0.2074, Average Dice Score: 0.8867
+Epoch 36, Test Dice Score: 0.2064
+Epoch 37 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 37, Average Meta Loss: 0.0082, Average Style Loss: 0.2043, Average Dice Score: 0.9080
+Epoch 37, Test Dice Score: 0.2526
+Epoch 38 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 38, Average Meta Loss: 0.0082, Average Style Loss: 0.2026, Average Dice Score: 0.9101
+Epoch 38, Test Dice Score: 0.3242
+Epoch 39 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 39, Average Meta Loss: 0.0078, Average Style Loss: 0.2053, Average Dice Score: 0.9138
+Epoch 39, Test Dice Score: 0.3843
+Epoch 40 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 40, Average Meta Loss: 0.0084, Average Style Loss: 0.2004, Average Dice Score: 0.9123
+Epoch 40, Test Dice Score: 0.3928
+Epoch 41 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 41, Average Meta Loss: 0.0083, Average Style Loss: 0.1998, Average Dice Score: 0.9105
+Epoch 41, Test Dice Score: 0.2791
+Epoch 42 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 42, Average Meta Loss: 0.0091, Average Style Loss: 0.1995, Average Dice Score: 0.9041
+Epoch 42, Test Dice Score: 0.3758
+Epoch 43 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 43, Average Meta Loss: 0.0086, Average Style Loss: 0.1948, Average Dice Score: 0.9075
+Epoch 43, Test Dice Score: 0.4333
+Epoch 44 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 44, Average Meta Loss: 0.0080, Average Style Loss: 0.1991, Average Dice Score: 0.9140
+Epoch 44, Test Dice Score: 0.2938
+Epoch 45 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 45, Average Meta Loss: 0.0077, Average Style Loss: 0.2004, Average Dice Score: 0.9161
+Epoch 45, Test Dice Score: 0.3830
+Epoch 46 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 46, Average Meta Loss: 0.0076, Average Style Loss: 0.2019, Average Dice Score: 0.9161
+Epoch 46, Test Dice Score: 0.3619
+Epoch 47 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 47, Average Meta Loss: 0.0073, Average Style Loss: 0.2030, Average Dice Score: 0.9215
+Epoch 47, Test Dice Score: 0.4356
+Epoch 48 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 48, Average Meta Loss: 0.0071, Average Style Loss: 0.2006, Average Dice Score: 0.9227
+Epoch 48, Test Dice Score: 0.3977
+Epoch 49 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 49, Average Meta Loss: 0.0072, Average Style Loss: 0.2074, Average Dice Score: 0.9219
+Epoch 49, Test Dice Score: 0.3962
+Epoch 50 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 50, Average Meta Loss: 0.0078, Average Style Loss: 0.1996, Average Dice Score: 0.9161
+Epoch 50, Test Dice Score: 0.4347
+Epoch 51 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 51, Average Meta Loss: 0.0072, Average Style Loss: 0.2008, Average Dice Score: 0.9214
+Epoch 51, Test Dice Score: 0.3590
+Epoch 52 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 52, Average Meta Loss: 0.0071, Average Style Loss: 0.2031, Average Dice Score: 0.9237
+Epoch 52, Test Dice Score: 0.4104
+Epoch 53 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 53, Average Meta Loss: 0.0076, Average Style Loss: 0.1987, Average Dice Score: 0.9178
+Epoch 53, Test Dice Score: 0.4347
+Epoch 54 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 54, Average Meta Loss: 0.0078, Average Style Loss: 0.2020, Average Dice Score: 0.9169
+Epoch 54, Test Dice Score: 0.1479
+Epoch 55 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 55, Average Meta Loss: 0.0072, Average Style Loss: 0.2064, Average Dice Score: 0.9211
+Epoch 55, Test Dice Score: 0.3445
+Epoch 56 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 56, Average Meta Loss: 0.0072, Average Style Loss: 0.2041, Average Dice Score: 0.9228
+Epoch 56, Test Dice Score: 0.3690
+Epoch 57 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 57, Average Meta Loss: 0.0068, Average Style Loss: 0.2044, Average Dice Score: 0.9250
+Epoch 57, Test Dice Score: 0.3998
+Epoch 58 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 58, Average Meta Loss: 0.0071, Average Style Loss: 0.1989, Average Dice Score: 0.9239
+Epoch 58, Test Dice Score: 0.4285
+Epoch 59 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 59, Average Meta Loss: 0.0072, Average Style Loss: 0.1996, Average Dice Score: 0.9221
+Epoch 59, Test Dice Score: 0.2988
+Epoch 60 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 60, Average Meta Loss: 0.0084, Average Style Loss: 0.2058, Average Dice Score: 0.9133
+Epoch 60, Test Dice Score: 0.3617
+Epoch 61 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 61, Average Meta Loss: 0.0074, Average Style Loss: 0.2004, Average Dice Score: 0.9195
+Epoch 61, Test Dice Score: 0.3969
+Epoch 62 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 62, Average Meta Loss: 0.0075, Average Style Loss: 0.2004, Average Dice Score: 0.9194
+Epoch 62, Test Dice Score: 0.4455
+Epoch 63 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 63, Average Meta Loss: 0.0069, Average Style Loss: 0.1990, Average Dice Score: 0.9232
+Epoch 63, Test Dice Score: 0.3216
+Epoch 64 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 64, Average Meta Loss: 0.0068, Average Style Loss: 0.1998, Average Dice Score: 0.9263
+Epoch 64, Test Dice Score: 0.3205
+Epoch 65 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 65, Average Meta Loss: 0.0071, Average Style Loss: 0.2018, Average Dice Score: 0.9235
+Epoch 65, Test Dice Score: 0.4237
+Epoch 66 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 66, Average Meta Loss: 0.0070, Average Style Loss: 0.2089, Average Dice Score: 0.9250
+Epoch 66, Test Dice Score: 0.4376
+Epoch 67 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 67, Average Meta Loss: 0.0069, Average Style Loss: 0.2039, Average Dice Score: 0.9252
+Epoch 67, Test Dice Score: 0.3462
+Epoch 68 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 68, Average Meta Loss: 0.0069, Average Style Loss: 0.2007, Average Dice Score: 0.9253
+Epoch 68, Test Dice Score: 0.3971
+Epoch 69 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 69, Average Meta Loss: 0.0070, Average Style Loss: 0.2008, Average Dice Score: 0.9247
+Epoch 69, Test Dice Score: 0.4299
+Epoch 70 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 70, Average Meta Loss: 0.0066, Average Style Loss: 0.2049, Average Dice Score: 0.9284
+Epoch 70, Test Dice Score: 0.4147
+Epoch 71 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 71, Average Meta Loss: 0.0071, Average Style Loss: 0.1977, Average Dice Score: 0.9236
+Epoch 71, Test Dice Score: 0.2401
+Epoch 72 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 72, Average Meta Loss: 0.0073, Average Style Loss: 0.2020, Average Dice Score: 0.9228
+Epoch 72, Test Dice Score: 0.3247
+Epoch 73 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 73, Average Meta Loss: 0.0077, Average Style Loss: 0.2036, Average Dice Score: 0.9186
+Epoch 73, Test Dice Score: 0.4133
+Epoch 74 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 74, Average Meta Loss: 0.0072, Average Style Loss: 0.2030, Average Dice Score: 0.9229
+Epoch 74, Test Dice Score: 0.3237
+Epoch 75 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 75, Average Meta Loss: 0.0069, Average Style Loss: 0.2021, Average Dice Score: 0.9255
+Epoch 75, Test Dice Score: 0.4098
+Epoch 76 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 76, Average Meta Loss: 0.0069, Average Style Loss: 0.2055, Average Dice Score: 0.9263
+Epoch 76, Test Dice Score: 0.4359
+Epoch 77 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 77, Average Meta Loss: 0.0075, Average Style Loss: 0.2025, Average Dice Score: 0.9212
+Epoch 77, Test Dice Score: 0.0976
+Epoch 78 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 78, Average Meta Loss: 0.0223, Average Style Loss: 0.2312, Average Dice Score: 0.7977
+Epoch 78, Test Dice Score: 0.2273
+Epoch 79 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 79, Average Meta Loss: 0.0287, Average Style Loss: 0.2181, Average Dice Score: 0.7319
+Epoch 79, Test Dice Score: 0.2631
+Epoch 80 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 80, Average Meta Loss: 0.0200, Average Style Loss: 0.2402, Average Dice Score: 0.8025
+Epoch 80, Test Dice Score: 0.1058
+Epoch 81 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 81, Average Meta Loss: 0.0168, Average Style Loss: 0.2331, Average Dice Score: 0.8199
+Epoch 81, Test Dice Score: 0.0478
+Epoch 82 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 82, Average Meta Loss: 0.0145, Average Style Loss: 0.2438, Average Dice Score: 0.8515
+Epoch 82, Test Dice Score: 0.0997
+Epoch 83 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 83, Average Meta Loss: 0.0126, Average Style Loss: 0.2375, Average Dice Score: 0.8637
+Epoch 83, Test Dice Score: 0.1063
+Epoch 84 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 84, Average Meta Loss: 0.0117, Average Style Loss: 0.2357, Average Dice Score: 0.8803
+Epoch 84, Test Dice Score: 0.1674
+Epoch 85 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 85, Average Meta Loss: 0.0100, Average Style Loss: 0.2344, Average Dice Score: 0.8903
+Epoch 85, Test Dice Score: 0.1689
+Epoch 86 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 86, Average Meta Loss: 0.0104, Average Style Loss: 0.2207, Average Dice Score: 0.8930
+Epoch 86, Test Dice Score: 0.2444
+Epoch 87 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 87, Average Meta Loss: 0.0089, Average Style Loss: 0.2242, Average Dice Score: 0.8989
+Epoch 87, Test Dice Score: 0.2119
+Epoch 88 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 88, Average Meta Loss: 0.0098, Average Style Loss: 0.2169, Average Dice Score: 0.8991
+Epoch 88, Test Dice Score: 0.0744
+Epoch 89 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 89, Average Meta Loss: 0.0091, Average Style Loss: 0.2151, Average Dice Score: 0.8998
+Epoch 89, Test Dice Score: 0.1593
+Epoch 90 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 90, Average Meta Loss: 0.0085, Average Style Loss: 0.2185, Average Dice Score: 0.9083
+Epoch 90, Test Dice Score: 0.1651
+Epoch 91 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 91, Average Meta Loss: 0.0094, Average Style Loss: 0.2239, Average Dice Score: 0.9025
+Epoch 91, Test Dice Score: 0.0678
+Epoch 92 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 92, Average Meta Loss: 0.0082, Average Style Loss: 0.2186, Average Dice Score: 0.9112
+Epoch 92, Test Dice Score: 0.0765
+Epoch 93 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 93, Average Meta Loss: 0.0080, Average Style Loss: 0.2183, Average Dice Score: 0.9143
+Epoch 93, Test Dice Score: 0.0495
+Epoch 94 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 94, Average Meta Loss: 0.0076, Average Style Loss: 0.2139, Average Dice Score: 0.9184
+Epoch 94, Test Dice Score: 0.1844
+Epoch 95 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 95, Average Meta Loss: 0.0078, Average Style Loss: 0.2100, Average Dice Score: 0.9173
+Epoch 95, Test Dice Score: 0.0687
+Epoch 96 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 96, Average Meta Loss: 0.0075, Average Style Loss: 0.2131, Average Dice Score: 0.9188
+Epoch 96, Test Dice Score: 0.1426
+Epoch 97 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 97, Average Meta Loss: 0.0076, Average Style Loss: 0.2126, Average Dice Score: 0.9201
+Epoch 97, Test Dice Score: 0.1377
+Epoch 98 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 98, Average Meta Loss: 0.0074, Average Style Loss: 0.2155, Average Dice Score: 0.9215
+Epoch 98, Test Dice Score: 0.1971
+Epoch 99 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 99, Average Meta Loss: 0.0076, Average Style Loss: 0.2160, Average Dice Score: 0.9185
+Epoch 99, Test Dice Score: 0.0422
+Epoch 100 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 100, Average Meta Loss: 0.0080, Average Style Loss: 0.2106, Average Dice Score: 0.9137
+Epoch 100, Test Dice Score: 0.0839
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2617, Average Style Loss: 0.1628, Average Dice Score: 0.0979
+Epoch 1, Test Dice Score: 0.1711
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2741, Average Style Loss: 0.1421, Average Dice Score: 0.0909
+Epoch 1, Test Dice Score: 0.1899
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2681, Average Style Loss: 0.1580, Average Dice Score: 0.0727
+Epoch 1, Test Dice Score: 0.1321
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0657, Average Style Loss: 0.1356, Average Dice Score: 0.3103
+Epoch 2, Test Dice Score: 0.1011
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0446, Average Style Loss: 0.1390, Average Dice Score: 0.5274
+Epoch 3, Test Dice Score: 0.2421
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0360, Average Style Loss: 0.1488, Average Dice Score: 0.6111
+Epoch 4, Test Dice Score: 0.0530
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0315, Average Style Loss: 0.1489, Average Dice Score: 0.6643
+Epoch 5, Test Dice Score: 0.1083
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0265, Average Style Loss: 0.1410, Average Dice Score: 0.7089
+Epoch 6, Test Dice Score: 0.0753
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0216, Average Style Loss: 0.1618, Average Dice Score: 0.7669
+Epoch 7, Test Dice Score: 0.0760
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0246, Average Style Loss: 0.1548, Average Dice Score: 0.7369
+Epoch 8, Test Dice Score: 0.0796
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2215, Average Style Loss: 0.0000, Average Dice Score: 0.1282
+Epoch 1, Test Dice Score: 0.1187
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0649, Average Style Loss: 0.0000, Average Dice Score: 0.3247
+Epoch 2, Test Dice Score: 0.3062
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0426, Average Style Loss: 0.0000, Average Dice Score: 0.5065
+Epoch 3, Test Dice Score: 0.1328
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0436, Average Style Loss: 0.0000, Average Dice Score: 0.5577
+Epoch 4, Test Dice Score: 0.2053
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0278, Average Style Loss: 0.0000, Average Dice Score: 0.6963
+Epoch 5, Test Dice Score: 0.2340
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0249, Average Style Loss: 0.0000, Average Dice Score: 0.7394
+Epoch 6, Test Dice Score: 0.4355
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0203, Average Style Loss: 0.0000, Average Dice Score: 0.7775
+Epoch 7, Test Dice Score: 0.4023
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0182, Average Style Loss: 0.0000, Average Dice Score: 0.8083
+Epoch 8, Test Dice Score: 0.3306
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0161, Average Style Loss: 0.0000, Average Dice Score: 0.8229
+Epoch 9, Test Dice Score: 0.4447
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0177, Average Style Loss: 0.0000, Average Dice Score: 0.8190
+Epoch 10, Test Dice Score: 0.2697
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0226, Average Style Loss: 0.0000, Average Dice Score: 0.7883
+Epoch 11, Test Dice Score: 0.2788
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0155, Average Style Loss: 0.0000, Average Dice Score: 0.8348
+Epoch 12, Test Dice Score: 0.3550
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0141, Average Style Loss: 0.0000, Average Dice Score: 0.8460
+Epoch 13, Test Dice Score: 0.3681
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0126, Average Style Loss: 0.0000, Average Dice Score: 0.8641
+Epoch 14, Test Dice Score: 0.2420
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0117, Average Style Loss: 0.0000, Average Dice Score: 0.8717
+Epoch 15, Test Dice Score: 0.3302
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0110, Average Style Loss: 0.0000, Average Dice Score: 0.8775
+Epoch 16, Test Dice Score: 0.3952
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0115, Average Style Loss: 0.0000, Average Dice Score: 0.8803
+Epoch 17, Test Dice Score: 0.2517
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0107, Average Style Loss: 0.0000, Average Dice Score: 0.8820
+Epoch 18, Test Dice Score: 0.2250
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2836, Average Style Loss: 0.0000, Average Dice Score: 0.0929
+Epoch 1, Test Dice Score: 0.0879
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0577, Average Style Loss: 0.0000, Average Dice Score: 0.3657
+Epoch 2, Test Dice Score: 0.1966
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0424, Average Style Loss: 0.0000, Average Dice Score: 0.5215
+Epoch 3, Test Dice Score: 0.0175
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0346, Average Style Loss: 0.0000, Average Dice Score: 0.6361
+Epoch 4, Test Dice Score: 0.1368
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0288, Average Style Loss: 0.0000, Average Dice Score: 0.6989
+Epoch 5, Test Dice Score: 0.0524
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0278, Average Style Loss: 0.0000, Average Dice Score: 0.7143
+Epoch 6, Test Dice Score: 0.1270
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0228, Average Style Loss: 0.0000, Average Dice Score: 0.7512
+Epoch 7, Test Dice Score: 0.1784
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0221, Average Style Loss: 0.0000, Average Dice Score: 0.7740
+Epoch 8, Test Dice Score: 0.1069
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0228, Average Style Loss: 0.0000, Average Dice Score: 0.7641
+Epoch 9, Test Dice Score: 0.1591
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0228, Average Style Loss: 0.0000, Average Dice Score: 0.7641
+Epoch 10, Test Dice Score: 0.0156
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0188, Average Style Loss: 0.0000, Average Dice Score: 0.8066
+Epoch 11, Test Dice Score: 0.0515
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0210, Average Style Loss: 0.0000, Average Dice Score: 0.7897
+Epoch 12, Test Dice Score: 0.0481
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2764, Average Style Loss: 0.0000, Average Dice Score: 0.0872
+Epoch 1, Test Dice Score: 0.0624
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0733, Average Style Loss: 0.0000, Average Dice Score: 0.2652
+Epoch 2, Test Dice Score: 0.2861
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0455, Average Style Loss: 0.0000, Average Dice Score: 0.4802
+Epoch 3, Test Dice Score: 0.3557
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0426, Average Style Loss: 0.0000, Average Dice Score: 0.5712
+Epoch 4, Test Dice Score: 0.1831
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0359, Average Style Loss: 0.0000, Average Dice Score: 0.6275
+Epoch 5, Test Dice Score: 0.2850
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0240, Average Style Loss: 0.0000, Average Dice Score: 0.7284
+Epoch 6, Test Dice Score: 0.0591
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0278, Average Style Loss: 0.0000, Average Dice Score: 0.7288
+Epoch 7, Test Dice Score: 0.0273
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0224, Average Style Loss: 0.0000, Average Dice Score: 0.7557
+Epoch 8, Test Dice Score: 0.1878
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0226, Average Style Loss: 0.0000, Average Dice Score: 0.7818
+Epoch 9, Test Dice Score: 0.1003
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0198, Average Style Loss: 0.0000, Average Dice Score: 0.7928
+Epoch 10, Test Dice Score: 0.1096
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0264, Average Style Loss: 0.0000, Average Dice Score: 0.7548
+Epoch 11, Test Dice Score: 0.1073
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0332, Average Style Loss: 0.0000, Average Dice Score: 0.6823
+Epoch 12, Test Dice Score: 0.1712
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0265, Average Style Loss: 0.0000, Average Dice Score: 0.7257
+Epoch 13, Test Dice Score: 0.0832
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0202, Average Style Loss: 0.0000, Average Dice Score: 0.7846
+Epoch 14, Test Dice Score: 0.0209
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0196, Average Style Loss: 0.0000, Average Dice Score: 0.8084
+Epoch 15, Test Dice Score: 0.1529
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0165, Average Style Loss: 0.0000, Average Dice Score: 0.8257
+Epoch 16, Test Dice Score: 0.2546
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0165, Average Style Loss: 0.0000, Average Dice Score: 0.8324
+Epoch 17, Test Dice Score: 0.1754
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0153, Average Style Loss: 0.0000, Average Dice Score: 0.8416
+Epoch 18, Test Dice Score: 0.3551
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0145, Average Style Loss: 0.0000, Average Dice Score: 0.8499
+Epoch 19, Test Dice Score: 0.3592
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0155, Average Style Loss: 0.0000, Average Dice Score: 0.8415
+Epoch 20, Test Dice Score: 0.2169
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0129, Average Style Loss: 0.0000, Average Dice Score: 0.8597
+Epoch 21, Test Dice Score: 0.2893
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0132, Average Style Loss: 0.0000, Average Dice Score: 0.8674
+Epoch 22, Test Dice Score: 0.3514
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0129, Average Style Loss: 0.0000, Average Dice Score: 0.8681
+Epoch 23, Test Dice Score: 0.3141
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0127, Average Style Loss: 0.0000, Average Dice Score: 0.8665
+Epoch 24, Test Dice Score: 0.4103
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, Average Meta Loss: 0.0134, Average Style Loss: 0.0000, Average Dice Score: 0.8659
+Epoch 25, Test Dice Score: 0.2861
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, Average Meta Loss: 0.0115, Average Style Loss: 0.0000, Average Dice Score: 0.8720
+Epoch 26, Test Dice Score: 0.3380
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, Average Meta Loss: 0.0118, Average Style Loss: 0.0000, Average Dice Score: 0.8766
+Epoch 27, Test Dice Score: 0.3630
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, Average Meta Loss: 0.0117, Average Style Loss: 0.0000, Average Dice Score: 0.8750
+Epoch 28, Test Dice Score: 0.4206
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, Average Meta Loss: 0.0111, Average Style Loss: 0.0000, Average Dice Score: 0.8820
+Epoch 29, Test Dice Score: 0.3967
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, Average Meta Loss: 0.0113, Average Style Loss: 0.0000, Average Dice Score: 0.8831
+Epoch 30, Test Dice Score: 0.3792
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 31, Average Meta Loss: 0.0129, Average Style Loss: 0.0000, Average Dice Score: 0.8721
+Epoch 31, Test Dice Score: 0.4146
+Epoch 32 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 32, Average Meta Loss: 0.0106, Average Style Loss: 0.0000, Average Dice Score: 0.8884
+Epoch 32, Test Dice Score: 0.3954
+Epoch 33 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 33, Average Meta Loss: 0.0120, Average Style Loss: 0.0000, Average Dice Score: 0.8756
+Epoch 33, Test Dice Score: 0.3694
+Epoch 34 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 34, Average Meta Loss: 0.0107, Average Style Loss: 0.0000, Average Dice Score: 0.8827
+Epoch 34, Test Dice Score: 0.3858
+Epoch 35 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 35, Average Meta Loss: 0.0116, Average Style Loss: 0.0000, Average Dice Score: 0.8840
+Epoch 35, Test Dice Score: 0.3851
+Epoch 36 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 36, Average Meta Loss: 0.0122, Average Style Loss: 0.0000, Average Dice Score: 0.8754
+Epoch 36, Test Dice Score: 0.4122
+Epoch 37 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 37, Average Meta Loss: 0.0115, Average Style Loss: 0.0000, Average Dice Score: 0.8751
+Epoch 37, Test Dice Score: 0.2997
+Epoch 38 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 38, Average Meta Loss: 0.0104, Average Style Loss: 0.0000, Average Dice Score: 0.8902
+Epoch 38, Test Dice Score: 0.3978
+Epoch 39 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 39, Average Meta Loss: 0.0103, Average Style Loss: 0.0000, Average Dice Score: 0.8940
+Epoch 39, Test Dice Score: 0.4006
+Epoch 40 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 40, Average Meta Loss: 0.0102, Average Style Loss: 0.0000, Average Dice Score: 0.8901
+Epoch 40, Test Dice Score: 0.4643
+Epoch 41 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 41, Average Meta Loss: 0.0109, Average Style Loss: 0.0000, Average Dice Score: 0.8915
+Epoch 41, Test Dice Score: 0.4161
+Epoch 42 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 42, Average Meta Loss: 0.0100, Average Style Loss: 0.0000, Average Dice Score: 0.8894
+Epoch 42, Test Dice Score: 0.4231
+Epoch 43 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 43, Average Meta Loss: 0.0096, Average Style Loss: 0.0000, Average Dice Score: 0.8994
+Epoch 43, Test Dice Score: 0.4264
+Epoch 44 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 44, Average Meta Loss: 0.0100, Average Style Loss: 0.0000, Average Dice Score: 0.8971
+Epoch 44, Test Dice Score: 0.4590
+Epoch 45 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.3813, Average Style Loss: nan, Average Dice Score: 0.0694
+Epoch 1, Test Dice Score: 0.1839
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0897, Average Style Loss: nan, Average Dice Score: 0.2227
+Epoch 2, Test Dice Score: 0.0393
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0398, Average Style Loss: nan, Average Dice Score: 0.5365
+Epoch 3, Test Dice Score: 0.0122
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0316, Average Style Loss: nan, Average Dice Score: 0.6581
+Epoch 4, Test Dice Score: 0.0106
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0298, Average Style Loss: nan, Average Dice Score: 0.6820
+Epoch 5, Test Dice Score: 0.0202
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0247, Average Style Loss: nan, Average Dice Score: 0.7370
+Epoch 6, Test Dice Score: 0.0064
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0226, Average Style Loss: nan, Average Dice Score: 0.7527
+Epoch 7, Test Dice Score: 0.0534
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0188, Average Style Loss: nan, Average Dice Score: 0.7852
+Epoch 8, Test Dice Score: 0.0509
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0228, Average Style Loss: nan, Average Dice Score: 0.7728
+Epoch 9, Test Dice Score: 0.0088
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0219, Average Style Loss: nan, Average Dice Score: 0.7692
+Epoch 10, Test Dice Score: 0.1176
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0207, Average Style Loss: nan, Average Dice Score: 0.7700
+Epoch 11, Test Dice Score: 0.0172
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0188, Average Style Loss: nan, Average Dice Score: 0.7964
+Epoch 12, Test Dice Score: 0.0070
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0187, Average Style Loss: nan, Average Dice Score: 0.8008
+Epoch 13, Test Dice Score: 0.0446
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0165, Average Style Loss: nan, Average Dice Score: 0.8156
+Epoch 14, Test Dice Score: 0.1648
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0163, Average Style Loss: nan, Average Dice Score: 0.8242
+Epoch 15, Test Dice Score: 0.0020
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0161, Average Style Loss: nan, Average Dice Score: 0.8284
+Epoch 16, Test Dice Score: 0.0052
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0176, Average Style Loss: nan, Average Dice Score: 0.8143
+Epoch 17, Test Dice Score: 0.0112
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0138, Average Style Loss: nan, Average Dice Score: 0.8404
+Epoch 18, Test Dice Score: 0.0077
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0153, Average Style Loss: nan, Average Dice Score: 0.8456
+Epoch 19, Test Dice Score: 0.0457
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0153, Average Style Loss: nan, Average Dice Score: 0.8338
+Epoch 20, Test Dice Score: 0.0127
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0158, Average Style Loss: nan, Average Dice Score: 0.8351
+Epoch 21, Test Dice Score: 0.0364
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0153, Average Style Loss: nan, Average Dice Score: 0.8379
+Epoch 22, Test Dice Score: 0.0040
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0145, Average Style Loss: nan, Average Dice Score: 0.8403
+Epoch 23, Test Dice Score: 0.0416
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2258, Average Style Loss: nan, Average Dice Score: 0.1179
+Epoch 1, Test Dice Score: 0.1642
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0692, Average Style Loss: nan, Average Dice Score: 0.2996
+Epoch 2, Test Dice Score: 0.2981
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0467, Average Style Loss: nan, Average Dice Score: 0.4181
+Epoch 3, Test Dice Score: 0.2137
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0414, Average Style Loss: nan, Average Dice Score: 0.4712
+Epoch 4, Test Dice Score: 0.1316
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0281, Average Style Loss: nan, Average Dice Score: 0.6348
+Epoch 5, Test Dice Score: 0.1003
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0213, Average Style Loss: nan, Average Dice Score: 0.7568
+Epoch 6, Test Dice Score: 0.2995
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0207, Average Style Loss: nan, Average Dice Score: 0.7765
+Epoch 7, Test Dice Score: 0.2247
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0253, Average Style Loss: nan, Average Dice Score: 0.7434
+Epoch 8, Test Dice Score: 0.1476
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0240, Average Style Loss: nan, Average Dice Score: 0.7377
+Epoch 9, Test Dice Score: 0.1750
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0180, Average Style Loss: nan, Average Dice Score: 0.8056
+Epoch 10, Test Dice Score: 0.1940
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0159, Average Style Loss: nan, Average Dice Score: 0.8292
+Epoch 11, Test Dice Score: 0.0983
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0143, Average Style Loss: nan, Average Dice Score: 0.8480
+Epoch 12, Test Dice Score: 0.1680
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0128, Average Style Loss: nan, Average Dice Score: 0.8546
+Epoch 13, Test Dice Score: 0.1357
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0154, Average Style Loss: nan, Average Dice Score: 0.8393
+Epoch 14, Test Dice Score: 0.0859
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0120, Average Style Loss: nan, Average Dice Score: 0.8672
+Epoch 15, Test Dice Score: 0.1245
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0109, Average Style Loss: nan, Average Dice Score: 0.8766
+Epoch 16, Test Dice Score: 0.1826
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0100, Average Style Loss: nan, Average Dice Score: 0.8872
+Epoch 17, Test Dice Score: 0.1451
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0095, Average Style Loss: nan, Average Dice Score: 0.8918
+Epoch 18, Test Dice Score: 0.1300
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0090, Average Style Loss: nan, Average Dice Score: 0.8984
+Epoch 19, Test Dice Score: 0.2101
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0105, Average Style Loss: nan, Average Dice Score: 0.8869
+Epoch 20, Test Dice Score: 0.0944
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0092, Average Style Loss: nan, Average Dice Score: 0.8959
+Epoch 21, Test Dice Score: 0.1005
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0093, Average Style Loss: nan, Average Dice Score: 0.8981
+Epoch 22, Test Dice Score: 0.1153
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0090, Average Style Loss: nan, Average Dice Score: 0.9004
+Epoch 23, Test Dice Score: 0.1346
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0092, Average Style Loss: nan, Average Dice Score: 0.9002
+Epoch 24, Test Dice Score: 0.1383
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, Average Meta Loss: 0.0091, Average Style Loss: nan, Average Dice Score: 0.9023
+Epoch 25, Test Dice Score: 0.1521
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, Average Meta Loss: 0.0088, Average Style Loss: nan, Average Dice Score: 0.9040
+Epoch 26, Test Dice Score: 0.1343
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, Average Meta Loss: 0.0085, Average Style Loss: nan, Average Dice Score: 0.9055
+Epoch 27, Test Dice Score: 0.1572
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, Average Meta Loss: 0.0086, Average Style Loss: nan, Average Dice Score: 0.9062
+Epoch 28, Test Dice Score: 0.0794
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, Average Meta Loss: 0.0101, Average Style Loss: nan, Average Dice Score: 0.8985
+Epoch 29, Test Dice Score: 0.1296
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, Average Meta Loss: 0.0096, Average Style Loss: nan, Average Dice Score: 0.8987
+Epoch 30, Test Dice Score: 0.2001
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2692, Average Style Loss: nan, Average Dice Score: 0.0906
+Epoch 1, Test Dice Score: 0.2215
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0813, Average Style Loss: nan, Average Dice Score: 0.2023
+Epoch 2, Test Dice Score: 0.2760
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0623, Average Style Loss: nan, Average Dice Score: 0.3534
+Epoch 3, Test Dice Score: 0.3327
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0473, Average Style Loss: nan, Average Dice Score: 0.4520
+Epoch 4, Test Dice Score: 0.3081
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0328, Average Style Loss: nan, Average Dice Score: 0.6055
+Epoch 5, Test Dice Score: 0.3473
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0237, Average Style Loss: nan, Average Dice Score: 0.7316
+Epoch 6, Test Dice Score: 0.1143
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0230, Average Style Loss: nan, Average Dice Score: 0.7569
+Epoch 7, Test Dice Score: 0.3525
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0269, Average Style Loss: nan, Average Dice Score: 0.7145
+Epoch 8, Test Dice Score: 0.0546
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0307, Average Style Loss: nan, Average Dice Score: 0.6931
+Epoch 9, Test Dice Score: 0.0363
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0222, Average Style Loss: nan, Average Dice Score: 0.7545
+Epoch 10, Test Dice Score: 0.0427
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0557, Average Style Loss: nan, Average Dice Score: 0.6090
+Epoch 11, Test Dice Score: 0.0465
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2510, Average Style Loss: nan, Average Dice Score: 0.1248
+Epoch 1, Test Dice Score: 0.1334
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0653, Average Style Loss: nan, Average Dice Score: 0.3380
+Epoch 2, Test Dice Score: 0.1247
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0446, Average Style Loss: nan, Average Dice Score: 0.5300
+Epoch 3, Test Dice Score: 0.2415
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0411, Average Style Loss: nan, Average Dice Score: 0.5808
+Epoch 4, Test Dice Score: 0.1807
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0551, Average Style Loss: nan, Average Dice Score: 0.5177
+Epoch 5, Test Dice Score: 0.0298
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0705, Average Style Loss: nan, Average Dice Score: 0.4085
+Epoch 6, Test Dice Score: 0.0620
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0456, Average Style Loss: nan, Average Dice Score: 0.5112
+Epoch 7, Test Dice Score: 0.0469
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0378, Average Style Loss: nan, Average Dice Score: 0.5838
+Epoch 8, Test Dice Score: 0.2137
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0268, Average Style Loss: nan, Average Dice Score: 0.7252
+Epoch 9, Test Dice Score: 0.1727
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0315, Average Style Loss: nan, Average Dice Score: 0.6430
+Epoch 10, Test Dice Score: 0.0370
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0302, Average Style Loss: nan, Average Dice Score: 0.7139
+Epoch 11, Test Dice Score: 0.0745
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0241, Average Style Loss: nan, Average Dice Score: 0.7281
+Epoch 12, Test Dice Score: 0.0364
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0212, Average Style Loss: nan, Average Dice Score: 0.7862
+Epoch 13, Test Dice Score: 0.0947
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0263, Average Style Loss: nan, Average Dice Score: 0.7340
+Epoch 14, Test Dice Score: 0.0218
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0308, Average Style Loss: nan, Average Dice Score: 0.6919
+Epoch 15, Test Dice Score: 0.1306
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0288, Average Style Loss: nan, Average Dice Score: 0.6850
+Epoch 16, Test Dice Score: 0.0291
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0228, Average Style Loss: nan, Average Dice Score: 0.7673
+Epoch 17, Test Dice Score: 0.0493
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0196, Average Style Loss: nan, Average Dice Score: 0.7823
+Epoch 18, Test Dice Score: 0.0349
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0202, Average Style Loss: nan, Average Dice Score: 0.7964
+Epoch 19, Test Dice Score: 0.0360
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0191, Average Style Loss: nan, Average Dice Score: 0.8039
+Epoch 20, Test Dice Score: 0.0749
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0168, Average Style Loss: nan, Average Dice Score: 0.8181
+Epoch 21, Test Dice Score: 0.0919
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0160, Average Style Loss: nan, Average Dice Score: 0.8254
+Epoch 22, Test Dice Score: 0.1726
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0156, Average Style Loss: nan, Average Dice Score: 0.8367
+Epoch 23, Test Dice Score: 0.0535
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0144, Average Style Loss: nan, Average Dice Score: 0.8434
+Epoch 24, Test Dice Score: 0.0944
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, Average Meta Loss: 0.0135, Average Style Loss: nan, Average Dice Score: 0.8530
+Epoch 25, Test Dice Score: 0.1173
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, Average Meta Loss: 0.0150, Average Style Loss: nan, Average Dice Score: 0.8438
+Epoch 26, Test Dice Score: 0.1676
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, Average Meta Loss: 0.0140, Average Style Loss: nan, Average Dice Score: 0.8470
+Epoch 27, Test Dice Score: 0.0785
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, Average Meta Loss: 0.0367, Average Style Loss: nan, Average Dice Score: 0.7229
+Epoch 28, Test Dice Score: 0.2062
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, Average Meta Loss: 0.0540, Average Style Loss: nan, Average Dice Score: 0.4864
+Epoch 29, Test Dice Score: 0.3534
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, Average Meta Loss: 0.0528, Average Style Loss: nan, Average Dice Score: 0.4915
+Epoch 30, Test Dice Score: 0.4455
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 31, Average Meta Loss: 0.0344, Average Style Loss: nan, Average Dice Score: 0.5913
+Epoch 31, Test Dice Score: 0.2186
+Epoch 32 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 32, Average Meta Loss: 0.0281, Average Style Loss: nan, Average Dice Score: 0.6929
+Epoch 32, Test Dice Score: 0.3497
+Epoch 33 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 33, Average Meta Loss: 0.0303, Average Style Loss: nan, Average Dice Score: 0.6940
+Epoch 33, Test Dice Score: 0.1470
+Epoch 34 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 34, Average Meta Loss: 0.0248, Average Style Loss: nan, Average Dice Score: 0.7337
+Epoch 34, Test Dice Score: 0.1201
+Epoch 35 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 35, Average Meta Loss: 0.0218, Average Style Loss: nan, Average Dice Score: 0.7666
+Epoch 35, Test Dice Score: 0.2868
+Epoch 36 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 36, Average Meta Loss: 0.0158, Average Style Loss: nan, Average Dice Score: 0.8290
+Epoch 36, Test Dice Score: 0.1681
+Epoch 37 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 37, Average Meta Loss: 0.0168, Average Style Loss: nan, Average Dice Score: 0.8217
+Epoch 37, Test Dice Score: 0.2387
+Epoch 38 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 38, Average Meta Loss: 0.0159, Average Style Loss: nan, Average Dice Score: 0.8328
+Epoch 38, Test Dice Score: 0.1070
+Epoch 39 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 39, Average Meta Loss: 0.0190, Average Style Loss: nan, Average Dice Score: 0.8011
+Epoch 39, Test Dice Score: 0.0796
+Epoch 40 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 40, Average Meta Loss: 0.0142, Average Style Loss: nan, Average Dice Score: 0.8426
+Epoch 40, Test Dice Score: 0.1146
+Epoch 41 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2113, Average Style Loss: nan, Average Dice Score: 0.1853
+Epoch 1, Test Dice Score: 0.0032
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0443, Average Style Loss: nan, Average Dice Score: 0.5310
+Epoch 2, Test Dice Score: 0.2009
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0409, Average Style Loss: nan, Average Dice Score: 0.6037
+Epoch 3, Test Dice Score: 0.0296
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0277, Average Style Loss: nan, Average Dice Score: 0.7233
+Epoch 4, Test Dice Score: 0.0157
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0263, Average Style Loss: nan, Average Dice Score: 0.7452
+Epoch 5, Test Dice Score: 0.0923
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0239, Average Style Loss: nan, Average Dice Score: 0.7590
+Epoch 6, Test Dice Score: 0.0182
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0213, Average Style Loss: nan, Average Dice Score: 0.7647
+Epoch 7, Test Dice Score: 0.0443
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0204, Average Style Loss: nan, Average Dice Score: 0.7909
+Epoch 8, Test Dice Score: 0.0169
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0194, Average Style Loss: nan, Average Dice Score: 0.7958
+Epoch 9, Test Dice Score: 0.0177
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.1998, Average Style Loss: nan, Average Dice Score: 0.1930
+Epoch 1, Test Dice Score: 0.4060
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0538, Average Style Loss: nan, Average Dice Score: 0.4673
+Epoch 2, Test Dice Score: 0.0359
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0466, Average Style Loss: nan, Average Dice Score: 0.5501
+Epoch 3, Test Dice Score: 0.1796
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0383, Average Style Loss: nan, Average Dice Score: 0.6186
+Epoch 4, Test Dice Score: 0.0087
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0238, Average Style Loss: nan, Average Dice Score: 0.7393
+Epoch 5, Test Dice Score: 0.0070
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0197, Average Style Loss: nan, Average Dice Score: 0.7910
+Epoch 6, Test Dice Score: 0.0149
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0172, Average Style Loss: nan, Average Dice Score: 0.8122
+Epoch 7, Test Dice Score: 0.0069
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0203, Average Style Loss: nan, Average Dice Score: 0.8048
+Epoch 8, Test Dice Score: 0.4167
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0287, Average Style Loss: nan, Average Dice Score: 0.7224
+Epoch 9, Test Dice Score: 0.0146
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0234, Average Style Loss: nan, Average Dice Score: 0.7616
+Epoch 10, Test Dice Score: 0.0094
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0198, Average Style Loss: nan, Average Dice Score: 0.7839
+Epoch 11, Test Dice Score: 0.0128
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0201, Average Style Loss: nan, Average Dice Score: 0.7861
+Epoch 12, Test Dice Score: 0.0003
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0230, Average Style Loss: nan, Average Dice Score: 0.7672
+Epoch 13, Test Dice Score: 0.0902
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0191, Average Style Loss: nan, Average Dice Score: 0.7999
+Epoch 14, Test Dice Score: 0.0218
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0201, Average Style Loss: nan, Average Dice Score: 0.8048
+Epoch 15, Test Dice Score: 0.0003
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0629, Average Style Loss: nan, Average Dice Score: 0.4959
+Epoch 16, Test Dice Score: 0.2097
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0440, Average Style Loss: nan, Average Dice Score: 0.5986
+Epoch 17, Test Dice Score: 0.2256
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0307, Average Style Loss: nan, Average Dice Score: 0.6877
+Epoch 18, Test Dice Score: 0.2999
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0410, Average Style Loss: nan, Average Dice Score: 0.6343
+Epoch 19, Test Dice Score: 0.3632
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0352, Average Style Loss: nan, Average Dice Score: 0.6656
+Epoch 20, Test Dice Score: 0.0667
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0315, Average Style Loss: nan, Average Dice Score: 0.6818
+Epoch 21, Test Dice Score: 0.0869
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0313, Average Style Loss: nan, Average Dice Score: 0.6918
+Epoch 22, Test Dice Score: 0.1013
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0267, Average Style Loss: nan, Average Dice Score: 0.7417
+Epoch 23, Test Dice Score: 0.0209
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0200, Average Style Loss: nan, Average Dice Score: 0.7898
+Epoch 24, Test Dice Score: 0.0082
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, Average Meta Loss: 0.0188, Average Style Loss: nan, Average Dice Score: 0.8028
+Epoch 25, Test Dice Score: 0.3368
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, Average Meta Loss: 0.0209, Average Style Loss: nan, Average Dice Score: 0.7898
+Epoch 26, Test Dice Score: 0.0049
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, Average Meta Loss: 0.0169, Average Style Loss: nan, Average Dice Score: 0.8162
+Epoch 27, Test Dice Score: 0.0084
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, Average Meta Loss: 0.0216, Average Style Loss: nan, Average Dice Score: 0.7790
+Epoch 28, Test Dice Score: 0.0611
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, Average Meta Loss: 0.0266, Average Style Loss: nan, Average Dice Score: 0.7315
+Epoch 29, Test Dice Score: 0.0914
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, Average Meta Loss: 0.0196, Average Style Loss: nan, Average Dice Score: 0.7887
+Epoch 30, Test Dice Score: 0.0173
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 31, Average Meta Loss: 0.0190, Average Style Loss: nan, Average Dice Score: 0.8166
+Epoch 31, Test Dice Score: 0.0122
+Epoch 32 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 32, Average Meta Loss: 0.0185, Average Style Loss: nan, Average Dice Score: 0.8065
+Epoch 32, Test Dice Score: 0.0136
+Epoch 33 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 33, Average Meta Loss: 0.0188, Average Style Loss: nan, Average Dice Score: 0.8057
+Epoch 33, Test Dice Score: 0.0166
+Epoch 34 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.2514, Average Style Loss: nan, Average Dice Score: 0.1051
+Epoch 1, Test Dice Score: 0.1073
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0663, Average Style Loss: nan, Average Dice Score: 0.3071
+Epoch 2, Test Dice Score: 0.2703
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0640, Average Style Loss: nan, Average Dice Score: 0.4356
+Epoch 3, Test Dice Score: 0.1885
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0836, Average Style Loss: nan, Average Dice Score: 0.2422
+Epoch 4, Test Dice Score: 0.1504
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0423, Average Style Loss: nan, Average Dice Score: 0.5610
+Epoch 5, Test Dice Score: 0.0154
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0307, Average Style Loss: nan, Average Dice Score: 0.6742
+Epoch 6, Test Dice Score: 0.1138
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0377, Average Style Loss: nan, Average Dice Score: 0.6545
+Epoch 7, Test Dice Score: 0.0105
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0257, Average Style Loss: nan, Average Dice Score: 0.7029
+Epoch 8, Test Dice Score: 0.3039
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0819, Average Style Loss: nan, Average Dice Score: 0.3550
+Epoch 9, Test Dice Score: 0.3433
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0414, Average Style Loss: nan, Average Dice Score: 0.6180
+Epoch 10, Test Dice Score: 0.0450
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0369, Average Style Loss: nan, Average Dice Score: 0.6409
+Epoch 11, Test Dice Score: 0.0326
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0279, Average Style Loss: nan, Average Dice Score: 0.7237
+Epoch 12, Test Dice Score: 0.1017
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0249, Average Style Loss: nan, Average Dice Score: 0.7441
+Epoch 13, Test Dice Score: 0.0093
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0253, Average Style Loss: nan, Average Dice Score: 0.7501
+Epoch 14, Test Dice Score: 0.1145
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0291, Average Style Loss: nan, Average Dice Score: 0.7294
+Epoch 15, Test Dice Score: 0.0219
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0217, Average Style Loss: nan, Average Dice Score: 0.7694
+Epoch 16, Test Dice Score: 0.0137
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0201, Average Style Loss: nan, Average Dice Score: 0.7894
+Epoch 17, Test Dice Score: 0.0195
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0197, Average Style Loss: nan, Average Dice Score: 0.7863
+Epoch 18, Test Dice Score: 0.0069
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0190, Average Style Loss: nan, Average Dice Score: 0.8077
+Epoch 19, Test Dice Score: 0.0126
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0186, Average Style Loss: nan, Average Dice Score: 0.8062
+Epoch 20, Test Dice Score: 0.0274
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0163, Average Style Loss: nan, Average Dice Score: 0.8255
+Epoch 21, Test Dice Score: 0.0142
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Е▒╗Ф°÷ 1 Е╪─Е╖▀Х╝╜Г╩┐ (Д╨╓И■≥И┤┤Ф═╥)
+Е▒╗Ф°÷ 1, Е╧ЁЕ²┤Е┘┐Ф█÷Е╓╠: 0.3025, Е╧ЁЕ²┤Е┬├Е┴╡Ф█÷Е╓╠: 0.2942, Е╧ЁЕ²┤Д╦─Х┤╢Ф─╖Ф█÷Е╓╠: 0.0083, Е╧ЁЕ²┤ Dice: 0.1099
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 1, ф╫╬Ыт╙кПй╖: 0.2337, ф╫╬Ы╥ж╦НкПй╖: 0.2259, ф╫╬Ыр╩жбпткПй╖: 0.0078, ф╫╬Ы Dice: 0.1658
+жэфз 1, т╢сР╡Бйт Dice ╥жйЩ: 0.1860
+жэфз 2 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 2, ф╫╬Ыт╙кПй╖: 0.0811, ф╫╬Ы╥ж╦НкПй╖: 0.0696, ф╫╬Ыр╩жбпткПй╖: 0.0115, ф╫╬Ы Dice: 0.3499
+жэфз 2, т╢сР╡Бйт Dice ╥жйЩ: 0.0713
+жэфз 3 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 3, ф╫╬Ыт╙кПй╖: 0.0486, ф╫╬Ы╥ж╦НкПй╖: 0.0372, ф╫╬Ыр╩жбпткПй╖: 0.0113, ф╫╬Ы Dice: 0.5572
+жэфз 3, т╢сР╡Бйт Dice ╥жйЩ: 0.1550
+жэфз 4 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 4, ф╫╬Ыт╙кПй╖: 0.0465, ф╫╬Ы╥ж╦НкПй╖: 0.0360, ф╫╬Ыр╩жбпткПй╖: 0.0105, ф╫╬Ы Dice: 0.5900
+жэфз 4, т╢сР╡Бйт Dice ╥жйЩ: 0.1614
+жэфз 5 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 5, ф╫╬Ыт╙кПй╖: 0.0564, ф╫╬Ы╥ж╦НкПй╖: 0.0493, ф╫╬Ыр╩жбпткПй╖: 0.0072, ф╫╬Ы Dice: 0.5252
+жэфз 5, т╢сР╡Бйт Dice ╥жйЩ: 0.1618
+жэфз 6 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 6, ф╫╬Ыт╙кПй╖: 0.0334, ф╫╬Ы╥ж╦НкПй╖: 0.0286, ф╫╬Ыр╩жбпткПй╖: 0.0049, ф╫╬Ы Dice: 0.6862
+жэфз 6, т╢сР╡Бйт Dice ╥жйЩ: 0.0638
+жэфз 7 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 7, ф╫╬Ыт╙кПй╖: 0.0334, ф╫╬Ы╥ж╦НкПй╖: 0.0257, ф╫╬Ыр╩жбпткПй╖: 0.0077, ф╫╬Ы Dice: 0.7262
+жэфз 7, т╢сР╡Бйт Dice ╥жйЩ: 0.1689
+жэфз 8 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 8, ф╫╬Ыт╙кПй╖: 0.0367, ф╫╬Ы╥ж╦НкПй╖: 0.0264, ф╫╬Ыр╩жбпткПй╖: 0.0104, ф╫╬Ы Dice: 0.7242
+жэфз 8, т╢сР╡Бйт Dice ╥жйЩ: 0.1804
+жэфз 9 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 9, ф╫╬Ыт╙кПй╖: 0.0368, ф╫╬Ы╥ж╦НкПй╖: 0.0244, ф╫╬Ыр╩жбпткПй╖: 0.0124, ф╫╬Ы Dice: 0.6972
+жэфз 9, т╢сР╡Бйт Dice ╥жйЩ: 0.2599
+жэфз 10 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 10, ф╫╬Ыт╙кПй╖: 0.0223, ф╫╬Ы╥ж╦НкПй╖: 0.0176, ф╫╬Ыр╩жбпткПй╖: 0.0047, ф╫╬Ы Dice: 0.7879
+дёпмря╠ё╢Фжа meta_style_unet_domain_generalization_epoch_10.pth
+жэфз 10, т╢сР╡Бйт Dice ╥жйЩ: 0.0167
+жэфз 11 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 11, ф╫╬Ыт╙кПй╖: 0.0245, ф╫╬Ы╥ж╦НкПй╖: 0.0207, ф╫╬Ыр╩жбпткПй╖: 0.0038, ф╫╬Ы Dice: 0.7842
+жэфз 11, т╢сР╡Бйт Dice ╥жйЩ: 0.0744
+жэфз 12 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 12, ф╫╬Ыт╙кПй╖: 0.0281, ф╫╬Ы╥ж╦НкПй╖: 0.0216, ф╫╬Ыр╩жбпткПй╖: 0.0065, ф╫╬Ы Dice: 0.7595
+жэфз 12, т╢сР╡Бйт Dice ╥жйЩ: 0.2799
+жэфз 13 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 13, ф╫╬Ыт╙кПй╖: 0.0344, ф╫╬Ы╥ж╦НкПй╖: 0.0213, ф╫╬Ыр╩жбпткПй╖: 0.0131, ф╫╬Ы Dice: 0.7487
+жэфз 13, т╢сР╡Бйт Dice ╥жйЩ: 0.1857
+жэфз 14 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 14, ф╫╬Ыт╙кПй╖: 0.0247, ф╫╬Ы╥ж╦НкПй╖: 0.0199, ф╫╬Ыр╩жбпткПй╖: 0.0048, ф╫╬Ы Dice: 0.7748
+жэфз 14, т╢сР╡Бйт Dice ╥жйЩ: 0.0114
+жэфз 15 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 15, ф╫╬Ыт╙кПй╖: 0.0387, ф╫╬Ы╥ж╦НкПй╖: 0.0273, ф╫╬Ыр╩жбпткПй╖: 0.0113, ф╫╬Ы Dice: 0.7269
+жэфз 15, т╢сР╡Бйт Dice ╥жйЩ: 0.2680
+жэфз 16 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 1, ф╫╬Ыт╙кПй╖: 0.1257, ф╫╬Ы╥ж╦НкПй╖: 0.1092, ф╫╬Ыр╩жбпткПй╖: 0.0165, ф╫╬Ы Dice: 0.4605
+жэфз 1, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1014
+жэфз 2 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 2, ф╫╬Ыт╙кПй╖: 0.0997, ф╫╬Ы╥ж╦НкПй╖: 0.0781, ф╫╬Ыр╩жбпткПй╖: 0.0216, ф╫╬Ы Dice: 0.4393
+жэфз 2, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2806
+жэфз 3 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 3, ф╫╬Ыт╙кПй╖: 0.0837, ф╫╬Ы╥ж╦НкПй╖: 0.0702, ф╫╬Ыр╩жбпткПй╖: 0.0135, ф╫╬Ы Dice: 0.5483
+жэфз 3, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2419
+жэфз 4 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 4, ф╫╬Ыт╙кПй╖: 0.0701, ф╫╬Ы╥ж╦НкПй╖: 0.0536, ф╫╬Ыр╩жбпткПй╖: 0.0165, ф╫╬Ы Dice: 0.6439
+жэфз 4, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2351
+жэфз 5 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 5, ф╫╬Ыт╙кПй╖: 0.0607, ф╫╬Ы╥ж╦НкПй╖: 0.0478, ф╫╬Ыр╩жбпткПй╖: 0.0128, ф╫╬Ы Dice: 0.6804
+жэфз 5, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2256
+жэфз 6 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 6, ф╫╬Ыт╙кПй╖: 0.0945, ф╫╬Ы╥ж╦НкПй╖: 0.0790, ф╫╬Ыр╩жбпткПй╖: 0.0154, ф╫╬Ы Dice: 0.5288
+жэфз 6, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2041
+жэфз 7 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 7, ф╫╬Ыт╙кПй╖: 0.0816, ф╫╬Ы╥ж╦НкПй╖: 0.0703, ф╫╬Ыр╩жбпткПй╖: 0.0114, ф╫╬Ы Dice: 0.4617
+жэфз 7, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2611
+жэфз 8 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 8, ф╫╬Ыт╙кПй╖: 0.0613, ф╫╬Ы╥ж╦НкПй╖: 0.0487, ф╫╬Ыр╩жбпткПй╖: 0.0126, ф╫╬Ы Dice: 0.6563
+жэфз 8, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1909
+жэфз 9 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 9, ф╫╬Ыт╙кПй╖: 0.0610, ф╫╬Ы╥ж╦НкПй╖: 0.0431, ф╫╬Ыр╩жбпткПй╖: 0.0179, ф╫╬Ы Dice: 0.6585
+жэфз 9, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2620
+жэфз 10 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 1, ф╫╬Ыт╙кПй╖: 0.1098, ф╫╬Ы╥ж╦НкПй╖: 0.1098, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.4917
+жэфз 1, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2290
+жэфз 2 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 2, ф╫╬Ыт╙кПй╖: 0.0542, ф╫╬Ы╥ж╦НкПй╖: 0.0542, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.6429
+жэфз 2, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1464
+жэфз 3 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 1, ф╫╬Ыт╙кПй╖: 0.2795, ф╫╬Ы╥ж╦НкПй╖: 0.2795, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.1471
+жэфз 1, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1490
+жэфз 2 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 2, ф╫╬Ыт╙кПй╖: 0.0786, ф╫╬Ы╥ж╦НкПй╖: 0.0786, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.3021
+жэфз 2, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1369
+жэфз 3 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 3, ф╫╬Ыт╙кПй╖: 0.0423, ф╫╬Ы╥ж╦НкПй╖: 0.0423, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.5578
+жэфз 3, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2264
+жэфз 4 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 4, ф╫╬Ыт╙кПй╖: 0.0326, ф╫╬Ы╥ж╦НкПй╖: 0.0326, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.6867
+жэфз 4, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.0883
+жэфз 5 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+жэфз 1 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 1, ф╫╬Ыт╙кПй╖: 0.3058, ф╫╬Ы╥ж╦НкПй╖: 0.3058, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.1361
+жэфз 1, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2655
+жэфз 2 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 2, ф╫╬Ыт╙кПй╖: 0.0764, ф╫╬Ы╥ж╦НкПй╖: 0.0764, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.2622
+жэфз 2, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.3047
+жэфз 3 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 3, ф╫╬Ыт╙кПй╖: 0.0570, ф╫╬Ы╥ж╦НкПй╖: 0.0570, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.3779
+жэфз 3, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2527
+жэфз 4 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 4, ф╫╬Ыт╙кПй╖: 0.0569, ф╫╬Ы╥ж╦НкПй╖: 0.0569, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.4042
+жэфз 4, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.3155
+жэфз 5 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 5, ф╫╬Ыт╙кПй╖: 0.0415, ф╫╬Ы╥ж╦НкПй╖: 0.0415, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.5523
+жэфз 5, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1437
+жэфз 6 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 6, ф╫╬Ыт╙кПй╖: 0.0399, ф╫╬Ы╥ж╦НкПй╖: 0.0399, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.5697
+жэфз 6, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.0912
+жэфз 7 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 7, ф╫╬Ыт╙кПй╖: 0.0465, ф╫╬Ы╥ж╦НкПй╖: 0.0465, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.5270
+жэфз 7, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.4333
+жэфз 8 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 8, ф╫╬Ыт╙кПй╖: 0.0438, ф╫╬Ы╥ж╦НкПй╖: 0.0438, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.6152
+жэфз 8, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2249
+жэфз 9 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 9, ф╫╬Ыт╙кПй╖: 0.0290, ф╫╬Ы╥ж╦НкПй╖: 0.0290, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.6763
+жэфз 9, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1216
+жэфз 10 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 10, ф╫╬Ыт╙кПй╖: 0.0264, ф╫╬Ы╥ж╦НкПй╖: 0.0264, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.7329
+дёпмря╠ё╢Фжа meta_style_unet_domain_generalization_epoch_10.pth
+жэфз 10, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1188
+жэфз 11 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 11, ф╫╬Ыт╙кПй╖: 0.0218, ф╫╬Ы╥ж╦НкПй╖: 0.0218, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.7672
+жэфз 11, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.3404
+жэфз 12 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 12, ф╫╬Ыт╙кПй╖: 0.0203, ф╫╬Ы╥ж╦НкПй╖: 0.0203, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.7779
+жэфз 12, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.2851
+жэфз 13 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
+жэфз 13, ф╫╬Ыт╙кПй╖: 0.0207, ф╫╬Ы╥ж╦НкПй╖: 0.0207, ф╫╬Ыр╩жбпткПй╖: 0.0000, ф╫╬Ы Dice: 0.7933
+жэфз 13, д©╠ЙсР╡Бйт Dice ╥жйЩ: 0.1991
+жэфз 14 ©╙й╪я╣а╥ (╫╩╢М╡ияЫ)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.1135, Average Dice Score: 0.3341
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0646, Average Dice Score: 0.3902
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.1095, Average Dice Score: 0.4001
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0477, Average Dice Score: 0.5509
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0662, Average Dice Score: 0.3639
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0444, Average Dice Score: 0.5522
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0442, Average Dice Score: 0.5567
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0340, Average Dice Score: 0.6570
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0327, Average Dice Score: 0.6771
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0223, Average Dice Score: 0.7614
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0196, Average Dice Score: 0.7991
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0175, Average Dice Score: 0.8131
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0194, Average Dice Score: 0.8040
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0186, Average Dice Score: 0.8104
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0205, Average Dice Score: 0.7917
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0167, Average Dice Score: 0.8270
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0145, Average Dice Score: 0.8517
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0131, Average Dice Score: 0.8615
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0134, Average Dice Score: 0.8583
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0138, Average Dice Score: 0.8529
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0118, Average Dice Score: 0.8740
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0116, Average Dice Score: 0.8766
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0105, Average Dice Score: 0.8868
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0103, Average Dice Score: 0.8896
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0103, Average Dice Score: 0.8900
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0104, Average Dice Score: 0.8892
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.1082, Average Dice Score: 0.2894
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0646, Average Dice Score: 0.3779
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0575, Average Dice Score: 0.4222
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0528, Average Dice Score: 0.4411
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0434, Average Dice Score: 0.5289
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0397, Average Dice Score: 0.5799
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0610, Average Dice Score: 0.4185
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0586, Average Dice Score: 0.4178
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0489, Average Dice Score: 0.5201
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0378, Average Dice Score: 0.5975
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0372, Average Dice Score: 0.6199
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, Average Meta Loss: 0.0320, Average Dice Score: 0.6618
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, Average Meta Loss: 0.0252, Average Dice Score: 0.7379
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, Average Meta Loss: 0.0219, Average Dice Score: 0.7720
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, Average Meta Loss: 0.0241, Average Dice Score: 0.7558
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, Average Meta Loss: 0.0222, Average Dice Score: 0.7755
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, Average Meta Loss: 0.0187, Average Dice Score: 0.8093
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, Average Meta Loss: 0.0168, Average Dice Score: 0.8298
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, Average Meta Loss: 0.0149, Average Dice Score: 0.8442
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, Average Meta Loss: 0.0142, Average Dice Score: 0.8516
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, Average Meta Loss: 0.0165, Average Dice Score: 0.8270
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, Average Meta Loss: 0.0182, Average Dice Score: 0.8136
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, Average Meta Loss: 0.0199, Average Dice Score: 0.8062
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, Average Meta Loss: 0.0166, Average Dice Score: 0.8269
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, Average Meta Loss: 0.0150, Average Dice Score: 0.8431
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, Average Meta Loss: 0.0140, Average Dice Score: 0.8549
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, Average Meta Loss: 0.0123, Average Dice Score: 0.8679
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, Average Meta Loss: 0.0120, Average Dice Score: 0.8758
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, Average Meta Loss: 0.0119, Average Dice Score: 0.8737
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, Average Meta Loss: 0.0110, Average Dice Score: 0.8841
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 31, Average Meta Loss: 0.0125, Average Dice Score: 0.8699
+Epoch 32 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 32, Average Meta Loss: 0.0117, Average Dice Score: 0.8752
+Epoch 33 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 33, Average Meta Loss: 0.0118, Average Dice Score: 0.8783
+Epoch 34 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 34, Average Meta Loss: 0.0138, Average Dice Score: 0.8620
+Epoch 35 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 35, Average Meta Loss: 0.0139, Average Dice Score: 0.8536
+Epoch 36 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 36, Average Meta Loss: 0.0122, Average Dice Score: 0.8685
+Epoch 37 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 37, Average Meta Loss: 0.0109, Average Dice Score: 0.8850
+Epoch 38 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 38, Average Meta Loss: 0.0111, Average Dice Score: 0.8808
+Epoch 39 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 39, Average Meta Loss: 0.0104, Average Dice Score: 0.8897
+Epoch 40 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 40, Average Meta Loss: 0.0094, Average Dice Score: 0.8982
+Epoch 41 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 41, Average Meta Loss: 0.0096, Average Dice Score: 0.8974
+Epoch 42 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 42, Average Meta Loss: 0.0092, Average Dice Score: 0.9004
+Epoch 43 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 43, Average Meta Loss: 0.0089, Average Dice Score: 0.9036
+Epoch 44 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 44, Average Meta Loss: 0.0085, Average Dice Score: 0.9077
+Epoch 45 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 45, Average Meta Loss: 0.0087, Average Dice Score: 0.9068
+Epoch 46 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 46, Average Meta Loss: 0.0088, Average Dice Score: 0.9062
+Epoch 47 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 47, Average Meta Loss: 0.0090, Average Dice Score: 0.9047
+Epoch 48 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 48, Average Meta Loss: 0.0087, Average Dice Score: 0.9077
+Epoch 49 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 49, Average Meta Loss: 0.0090, Average Dice Score: 0.9032
+Epoch 50 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 50, Average Meta Loss: 0.0117, Average Dice Score: 0.8785
+Epoch 51 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 51, Average Meta Loss: 0.0099, Average Dice Score: 0.8937
+Epoch 52 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 52, Average Meta Loss: 0.0090, Average Dice Score: 0.9050
+Epoch 53 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 53, Average Meta Loss: 0.0087, Average Dice Score: 0.9046
+Epoch 54 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 54, Average Meta Loss: 0.0086, Average Dice Score: 0.9074
+Epoch 55 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 55, Average Meta Loss: 0.0084, Average Dice Score: 0.9090
+Epoch 56 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 56, Average Meta Loss: 0.0086, Average Dice Score: 0.9088
+Epoch 57 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 57, Average Meta Loss: 0.0090, Average Dice Score: 0.9064
+Epoch 58 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 58, Average Meta Loss: 0.0092, Average Dice Score: 0.9023
+Epoch 59 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 59, Average Meta Loss: 0.0089, Average Dice Score: 0.9038
+Epoch 60 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 60, Average Meta Loss: 0.0088, Average Dice Score: 0.9065
+Epoch 61 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 61, Average Meta Loss: 0.0086, Average Dice Score: 0.9087
+Epoch 62 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 62, Average Meta Loss: 0.0081, Average Dice Score: 0.9126
+Epoch 63 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 63, Average Meta Loss: 0.0076, Average Dice Score: 0.9169
+Epoch 64 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 64, Average Meta Loss: 0.0088, Average Dice Score: 0.9092
+Epoch 65 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 65, Average Meta Loss: 0.0089, Average Dice Score: 0.9039
+Epoch 66 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 66, Average Meta Loss: 0.0096, Average Dice Score: 0.8993
+Epoch 67 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 67, Average Meta Loss: 0.0086, Average Dice Score: 0.9074
+Epoch 68 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 68, Average Meta Loss: 0.0083, Average Dice Score: 0.9121
+Epoch 69 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 69, Average Meta Loss: 0.0081, Average Dice Score: 0.9119
+Epoch 70 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 70, Average Meta Loss: 0.0076, Average Dice Score: 0.9176
+Epoch 71 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 71, Average Meta Loss: 0.0073, Average Dice Score: 0.9211
+Epoch 72 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 72, Average Meta Loss: 0.0072, Average Dice Score: 0.9228
+Epoch 73 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 73, Average Meta Loss: 0.0072, Average Dice Score: 0.9223
+Epoch 74 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 74, Average Meta Loss: 0.0077, Average Dice Score: 0.9189
+Epoch 75 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 75, Average Meta Loss: 0.0106, Average Dice Score: 0.8965
+Epoch 76 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 76, Average Meta Loss: 0.0110, Average Dice Score: 0.8831
+Epoch 77 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 77, Average Meta Loss: 0.0081, Average Dice Score: 0.9111
+Epoch 78 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 78, Average Meta Loss: 0.0070, Average Dice Score: 0.9241
+Epoch 79 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 79, Average Meta Loss: 0.0074, Average Dice Score: 0.9212
+Epoch 80 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 80, Average Meta Loss: 0.0073, Average Dice Score: 0.9217
+Epoch 81 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 81, Average Meta Loss: 0.0073, Average Dice Score: 0.9221
+Epoch 82 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 82, Average Meta Loss: 0.0072, Average Dice Score: 0.9230
+Epoch 83 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 83, Average Meta Loss: 0.0068, Average Dice Score: 0.9265
+Epoch 84 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 84, Average Meta Loss: 0.0075, Average Dice Score: 0.9220
+Epoch 85 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 85, Average Meta Loss: 0.0075, Average Dice Score: 0.9208
+Epoch 86 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 86, Average Meta Loss: 0.0075, Average Dice Score: 0.9186
+Epoch 87 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 87, Average Meta Loss: 0.0072, Average Dice Score: 0.9236
+Epoch 88 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 88, Average Meta Loss: 0.0081, Average Dice Score: 0.9144
+Epoch 89 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, Average Meta Loss: 0.1058, Average Dice Score: 0.2627
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, Average Meta Loss: 0.0567, Average Dice Score: 0.4369
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, Average Meta Loss: 0.0472, Average Dice Score: 0.5267
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, Average Meta Loss: 0.0420, Average Dice Score: 0.5701
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, Average Meta Loss: 0.0342, Average Dice Score: 0.6420
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, Average Meta Loss: 0.0285, Average Dice Score: 0.7003
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, Average Meta Loss: 0.0312, Average Dice Score: 0.6873
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, Average Meta Loss: 0.0238, Average Dice Score: 0.7540
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, Average Meta Loss: 0.0323, Average Dice Score: 0.6731
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, Average Meta Loss: 0.0203, Average Dice Score: 0.7922
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, Average Meta Loss: 0.0180, Average Dice Score: 0.8143
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, ф╫╬ЫкПй╖: 0.0994, ф╫╬Ы╥ж╦НкПй╖: 0.0985, ф╫╬Ыр╩жбпткПй╖: 0.0080, ф╫╬Ы╥Г╦ЯкПй╖: 0.1057, ф╫╬Ы Dice ╥жйЩ: 0.3707
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Epoch 1 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 1, ф╫╬ЫкПй╖: 0.1493, ф╫╬Ы╥ж╦НкПй╖: 0.1488, ф╫╬Ыр╩жбпткПй╖: 0.0055, ф╫╬Ы╥Г╦ЯкПй╖: 0.1404, ф╫╬Ы Dice ╥жйЩ: 0.1725
+Epoch 2 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 2, ф╫╬ЫкПй╖: 0.0830, ф╫╬Ы╥ж╦НкПй╖: 0.0826, ф╫╬Ыр╩жбпткПй╖: 0.0036, ф╫╬Ы╥Г╦ЯкПй╖: 0.1156, ф╫╬Ы Dice ╥жйЩ: 0.2131
+Epoch 3 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 3, ф╫╬ЫкПй╖: 0.0810, ф╫╬Ы╥ж╦НкПй╖: 0.0808, ф╫╬Ыр╩жбпткПй╖: 0.0023, ф╫╬Ы╥Г╦ЯкПй╖: 0.1307, ф╫╬Ы Dice ╥жйЩ: 0.2146
+Epoch 4 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 4, ф╫╬ЫкПй╖: 0.0717, ф╫╬Ы╥ж╦НкПй╖: 0.0713, ф╫╬Ыр╩жбпткПй╖: 0.0037, ф╫╬Ы╥Г╦ЯкПй╖: 0.1295, ф╫╬Ы Dice ╥жйЩ: 0.2897
+Epoch 5 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 5, ф╫╬ЫкПй╖: 0.0696, ф╫╬Ы╥ж╦НкПй╖: 0.0693, ф╫╬Ыр╩жбпткПй╖: 0.0030, ф╫╬Ы╥Г╦ЯкПй╖: 0.1267, ф╫╬Ы Dice ╥жйЩ: 0.3065
+Epoch 6 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 6, ф╫╬ЫкПй╖: 0.0601, ф╫╬Ы╥ж╦НкПй╖: 0.0594, ф╫╬Ыр╩жбпткПй╖: 0.0066, ф╫╬Ы╥Г╦ЯкПй╖: 0.1063, ф╫╬Ы Dice ╥жйЩ: 0.3430
+Epoch 7 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 7, ф╫╬ЫкПй╖: 0.0523, ф╫╬Ы╥ж╦НкПй╖: 0.0511, ф╫╬Ыр╩жбпткПй╖: 0.0119, ф╫╬Ы╥Г╦ЯкПй╖: 0.1248, ф╫╬Ы Dice ╥жйЩ: 0.4641
+Epoch 8 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 8, ф╫╬ЫкПй╖: 0.0533, ф╫╬Ы╥ж╦НкПй╖: 0.0524, ф╫╬Ыр╩жбпткПй╖: 0.0090, ф╫╬Ы╥Г╦ЯкПй╖: 0.1110, ф╫╬Ы Dice ╥жйЩ: 0.4694
+Epoch 9 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 9, ф╫╬ЫкПй╖: 0.0406, ф╫╬Ы╥ж╦НкПй╖: 0.0395, ф╫╬Ыр╩жбпткПй╖: 0.0113, ф╫╬Ы╥Г╦ЯкПй╖: 0.1348, ф╫╬Ы Dice ╥жйЩ: 0.6021
+Epoch 10 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 10, ф╫╬ЫкПй╖: 0.0353, ф╫╬Ы╥ж╦НкПй╖: 0.0345, ф╫╬Ыр╩жбпткПй╖: 0.0078, ф╫╬Ы╥Г╦ЯкПй╖: 0.1329, ф╫╬Ы Dice ╥жйЩ: 0.6413
+Epoch 11 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 11, ф╫╬ЫкПй╖: 0.0310, ф╫╬Ы╥ж╦НкПй╖: 0.0306, ф╫╬Ыр╩жбпткПй╖: 0.0043, ф╫╬Ы╥Г╦ЯкПй╖: 0.1231, ф╫╬Ы Dice ╥жйЩ: 0.6957
+Epoch 12 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 12, ф╫╬ЫкПй╖: 0.0258, ф╫╬Ы╥ж╦НкПй╖: 0.0255, ф╫╬Ыр╩жбпткПй╖: 0.0033, ф╫╬Ы╥Г╦ЯкПй╖: 0.1280, ф╫╬Ы Dice ╥жйЩ: 0.7423
+Epoch 13 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 13, ф╫╬ЫкПй╖: 0.0200, ф╫╬Ы╥ж╦НкПй╖: 0.0199, ф╫╬Ыр╩жбпткПй╖: 0.0015, ф╫╬Ы╥Г╦ЯкПй╖: 0.1319, ф╫╬Ы Dice ╥жйЩ: 0.7925
+Epoch 14 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 14, ф╫╬ЫкПй╖: 0.0176, ф╫╬Ы╥ж╦НкПй╖: 0.0175, ф╫╬Ыр╩жбпткПй╖: 0.0016, ф╫╬Ы╥Г╦ЯкПй╖: 0.1279, ф╫╬Ы Dice ╥жйЩ: 0.8148
+Epoch 15 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 15, ф╫╬ЫкПй╖: 0.0193, ф╫╬Ы╥ж╦НкПй╖: 0.0191, ф╫╬Ыр╩жбпткПй╖: 0.0017, ф╫╬Ы╥Г╦ЯкПй╖: 0.1342, ф╫╬Ы Dice ╥жйЩ: 0.8070
+Epoch 16 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 16, ф╫╬ЫкПй╖: 0.0167, ф╫╬Ы╥ж╦НкПй╖: 0.0165, ф╫╬Ыр╩жбпткПй╖: 0.0019, ф╫╬Ы╥Г╦ЯкПй╖: 0.1294, ф╫╬Ы Dice ╥жйЩ: 0.8276
+Epoch 17 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 17, ф╫╬ЫкПй╖: 0.0167, ф╫╬Ы╥ж╦НкПй╖: 0.0166, ф╫╬Ыр╩жбпткПй╖: 0.0015, ф╫╬Ы╥Г╦ЯкПй╖: 0.1304, ф╫╬Ы Dice ╥жйЩ: 0.8271
+Epoch 18 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 18, ф╫╬ЫкПй╖: 0.0152, ф╫╬Ы╥ж╦НкПй╖: 0.0151, ф╫╬Ыр╩жбпткПй╖: 0.0012, ф╫╬Ы╥Г╦ЯкПй╖: 0.1312, ф╫╬Ы Dice ╥жйЩ: 0.8424
+Epoch 19 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 19, ф╫╬ЫкПй╖: 0.0141, ф╫╬Ы╥ж╦НкПй╖: 0.0140, ф╫╬Ыр╩жбпткПй╖: 0.0013, ф╫╬Ы╥Г╦ЯкПй╖: 0.1283, ф╫╬Ы Dice ╥жйЩ: 0.8521
+Epoch 20 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 20, ф╫╬ЫкПй╖: 0.0144, ф╫╬Ы╥ж╦НкПй╖: 0.0142, ф╫╬Ыр╩жбпткПй╖: 0.0014, ф╫╬Ы╥Г╦ЯкПй╖: 0.1297, ф╫╬Ы Dice ╥жйЩ: 0.8527
+Epoch 21 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 21, ф╫╬ЫкПй╖: 0.0155, ф╫╬Ы╥ж╦НкПй╖: 0.0153, ф╫╬Ыр╩жбпткПй╖: 0.0018, ф╫╬Ы╥Г╦ЯкПй╖: 0.1319, ф╫╬Ы Dice ╥жйЩ: 0.8392
+Epoch 22 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 22, ф╫╬ЫкПй╖: 0.0138, ф╫╬Ы╥ж╦НкПй╖: 0.0136, ф╫╬Ыр╩жбпткПй╖: 0.0023, ф╫╬Ы╥Г╦ЯкПй╖: 0.1338, ф╫╬Ы Dice ╥жйЩ: 0.8559
+Epoch 23 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 23, ф╫╬ЫкПй╖: 0.0138, ф╫╬Ы╥ж╦НкПй╖: 0.0136, ф╫╬Ыр╩жбпткПй╖: 0.0018, ф╫╬Ы╥Г╦ЯкПй╖: 0.1337, ф╫╬Ы Dice ╥жйЩ: 0.8568
+Epoch 24 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 24, ф╫╬ЫкПй╖: 0.0125, ф╫╬Ы╥ж╦НкПй╖: 0.0124, ф╫╬Ыр╩жбпткПй╖: 0.0014, ф╫╬Ы╥Г╦ЯкПй╖: 0.1339, ф╫╬Ы Dice ╥жйЩ: 0.8696
+Epoch 25 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 25, ф╫╬ЫкПй╖: 0.0124, ф╫╬Ы╥ж╦НкПй╖: 0.0122, ф╫╬Ыр╩жбпткПй╖: 0.0016, ф╫╬Ы╥Г╦ЯкПй╖: 0.1404, ф╫╬Ы Dice ╥жйЩ: 0.8696
+Epoch 26 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 26, ф╫╬ЫкПй╖: 0.0121, ф╫╬Ы╥ж╦НкПй╖: 0.0120, ф╫╬Ыр╩жбпткПй╖: 0.0017, ф╫╬Ы╥Г╦ЯкПй╖: 0.1336, ф╫╬Ы Dice ╥жйЩ: 0.8729
+Epoch 27 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 27, ф╫╬ЫкПй╖: 0.0123, ф╫╬Ы╥ж╦НкПй╖: 0.0121, ф╫╬Ыр╩жбпткПй╖: 0.0023, ф╫╬Ы╥Г╦ЯкПй╖: 0.1323, ф╫╬Ы Dice ╥жйЩ: 0.8715
+Epoch 28 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 28, ф╫╬ЫкПй╖: 0.0130, ф╫╬Ы╥ж╦НкПй╖: 0.0128, ф╫╬Ыр╩жбпткПй╖: 0.0028, ф╫╬Ы╥Г╦ЯкПй╖: 0.1282, ф╫╬Ы Dice ╥жйЩ: 0.8647
+Epoch 29 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 29, ф╫╬ЫкПй╖: 0.0128, ф╫╬Ы╥ж╦НкПй╖: 0.0126, ф╫╬Ыр╩жбпткПй╖: 0.0029, ф╫╬Ы╥Г╦ЯкПй╖: 0.1303, ф╫╬Ы Dice ╥жйЩ: 0.8709
+Epoch 30 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 30, ф╫╬ЫкПй╖: 0.0122, ф╫╬Ы╥ж╦НкПй╖: 0.0121, ф╫╬Ыр╩жбпткПй╖: 0.0014, ф╫╬Ы╥Г╦ЯкПй╖: 0.1353, ф╫╬Ы Dice ╥жйЩ: 0.8708
+Epoch 31 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 31, ф╫╬ЫкПй╖: 0.0121, ф╫╬Ы╥ж╦НкПй╖: 0.0119, ф╫╬Ыр╩жбпткПй╖: 0.0015, ф╫╬Ы╥Г╦ЯкПй╖: 0.1288, ф╫╬Ы Dice ╥жйЩ: 0.8751
+Epoch 32 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 32, ф╫╬ЫкПй╖: 0.0131, ф╫╬Ы╥ж╦НкПй╖: 0.0129, ф╫╬Ыр╩жбпткПй╖: 0.0014, ф╫╬Ы╥Г╦ЯкПй╖: 0.1328, ф╫╬Ы Dice ╥жйЩ: 0.8671
+Epoch 33 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 33, ф╫╬ЫкПй╖: 0.0118, ф╫╬Ы╥ж╦НкПй╖: 0.0115, ф╫╬Ыр╩жбпткПй╖: 0.0028, ф╫╬Ы╥Г╦ЯкПй╖: 0.1332, ф╫╬Ы Dice ╥жйЩ: 0.8767
+Epoch 34 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 34, ф╫╬ЫкПй╖: 0.0126, ф╫╬Ы╥ж╦НкПй╖: 0.0124, ф╫╬Ыр╩жбпткПй╖: 0.0017, ф╫╬Ы╥Г╦ЯкПй╖: 0.1268, ф╫╬Ы Dice ╥жйЩ: 0.8702
+Epoch 35 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 35, ф╫╬ЫкПй╖: 0.0126, ф╫╬Ы╥ж╦НкПй╖: 0.0124, ф╫╬Ыр╩жбпткПй╖: 0.0022, ф╫╬Ы╥Г╦ЯкПй╖: 0.1429, ф╫╬Ы Dice ╥жйЩ: 0.8675
+Epoch 36 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 36, ф╫╬ЫкПй╖: 0.0136, ф╫╬Ы╥ж╦НкПй╖: 0.0134, ф╫╬Ыр╩жбпткПй╖: 0.0021, ф╫╬Ы╥Г╦ЯкПй╖: 0.1425, ф╫╬Ы Dice ╥жйЩ: 0.8589
+Epoch 37 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 37, ф╫╬ЫкПй╖: 0.0119, ф╫╬Ы╥ж╦НкПй╖: 0.0117, ф╫╬Ыр╩жбпткПй╖: 0.0013, ф╫╬Ы╥Г╦ЯкПй╖: 0.1209, ф╫╬Ы Dice ╥жйЩ: 0.8740
+Epoch 38 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 38, ф╫╬ЫкПй╖: 0.0122, ф╫╬Ы╥ж╦НкПй╖: 0.0121, ф╫╬Ыр╩жбпткПй╖: 0.0012, ф╫╬Ы╥Г╦ЯкПй╖: 0.1288, ф╫╬Ы Dice ╥жйЩ: 0.8746
+Epoch 39 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 39, ф╫╬ЫкПй╖: 0.0107, ф╫╬Ы╥ж╦НкПй╖: 0.0105, ф╫╬Ыр╩жбпткПй╖: 0.0019, ф╫╬Ы╥Г╦ЯкПй╖: 0.1448, ф╫╬Ы Dice ╥жйЩ: 0.8850
+Epoch 40 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 40, ф╫╬ЫкПй╖: 0.0122, ф╫╬Ы╥ж╦НкПй╖: 0.0120, ф╫╬Ыр╩жбпткПй╖: 0.0018, ф╫╬Ы╥Г╦ЯкПй╖: 0.1251, ф╫╬Ы Dice ╥жйЩ: 0.8765
+Epoch 41 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 41, ф╫╬ЫкПй╖: 0.0128, ф╫╬Ы╥ж╦НкПй╖: 0.0127, ф╫╬Ыр╩жбпткПй╖: 0.0014, ф╫╬Ы╥Г╦ЯкПй╖: 0.1305, ф╫╬Ы Dice ╥жйЩ: 0.8665
+Epoch 42 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 42, ф╫╬ЫкПй╖: 0.0104, ф╫╬Ы╥ж╦НкПй╖: 0.0103, ф╫╬Ыр╩жбпткПй╖: 0.0018, ф╫╬Ы╥Г╦ЯкПй╖: 0.1364, ф╫╬Ы Dice ╥жйЩ: 0.8879
+Epoch 43 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 43, ф╫╬ЫкПй╖: 0.0124, ф╫╬Ы╥ж╦НкПй╖: 0.0123, ф╫╬Ыр╩жбпткПй╖: 0.0016, ф╫╬Ы╥Г╦ЯкПй╖: 0.1330, ф╫╬Ы Dice ╥жйЩ: 0.8730
+Epoch 44 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 44, ф╫╬ЫкПй╖: 0.0143, ф╫╬Ы╥ж╦НкПй╖: 0.0141, ф╫╬Ыр╩жбпткПй╖: 0.0019, ф╫╬Ы╥Г╦ЯкПй╖: 0.1260, ф╫╬Ы Dice ╥жйЩ: 0.8562
+Epoch 45 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 45, ф╫╬ЫкПй╖: 0.0122, ф╫╬Ы╥ж╦НкПй╖: 0.0120, ф╫╬Ыр╩жбпткПй╖: 0.0014, ф╫╬Ы╥Г╦ЯкПй╖: 0.1348, ф╫╬Ы Dice ╥жйЩ: 0.8700
+Epoch 46 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 46, ф╫╬ЫкПй╖: 0.0125, ф╫╬Ы╥ж╦НкПй╖: 0.0123, ф╫╬Ыр╩жбпткПй╖: 0.0017, ф╫╬Ы╥Г╦ЯкПй╖: 0.1410, ф╫╬Ы Dice ╥жйЩ: 0.8700
+Epoch 47 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 47, ф╫╬ЫкПй╖: 0.0115, ф╫╬Ы╥ж╦НкПй╖: 0.0114, ф╫╬Ыр╩жбпткПй╖: 0.0018, ф╫╬Ы╥Г╦ЯкПй╖: 0.1284, ф╫╬Ы Dice ╥жйЩ: 0.8790
+Epoch 48 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 48, ф╫╬ЫкПй╖: 0.0118, ф╫╬Ы╥ж╦НкПй╖: 0.0116, ф╫╬Ыр╩жбпткПй╖: 0.0019, ф╫╬Ы╥Г╦ЯкПй╖: 0.1387, ф╫╬Ы Dice ╥жйЩ: 0.8756
+Epoch 49 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 49, ф╫╬ЫкПй╖: 0.0113, ф╫╬Ы╥ж╦НкПй╖: 0.0111, ф╫╬Ыр╩жбпткПй╖: 0.0016, ф╫╬Ы╥Г╦ЯкПй╖: 0.1407, ф╫╬Ы Dice ╥жйЩ: 0.8797
+Epoch 50 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 50, ф╫╬ЫкПй╖: 0.0110, ф╫╬Ы╥ж╦НкПй╖: 0.0109, ф╫╬Ыр╩жбпткПй╖: 0.0017, ф╫╬Ы╥Г╦ЯкПй╖: 0.1318, ф╫╬Ы Dice ╥жйЩ: 0.8837
+Epoch 51 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 51, ф╫╬ЫкПй╖: 0.0111, ф╫╬Ы╥ж╦НкПй╖: 0.0109, ф╫╬Ыр╩жбпткПй╖: 0.0015, ф╫╬Ы╥Г╦ЯкПй╖: 0.1489, ф╫╬Ы Dice ╥жйЩ: 0.8839
+Epoch 52 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 52, ф╫╬ЫкПй╖: 0.0100, ф╫╬Ы╥ж╦НкПй╖: 0.0099, ф╫╬Ыр╩жбпткПй╖: 0.0011, ф╫╬Ы╥Г╦ЯкПй╖: 0.1331, ф╫╬Ы Dice ╥жйЩ: 0.8910
+Epoch 53 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 53, ф╫╬ЫкПй╖: 0.0101, ф╫╬Ы╥ж╦НкПй╖: 0.0099, ф╫╬Ыр╩жбпткПй╖: 0.0015, ф╫╬Ы╥Г╦ЯкПй╖: 0.1380, ф╫╬Ы Dice ╥жйЩ: 0.8938
+Epoch 54 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 54, ф╫╬ЫкПй╖: 0.0113, ф╫╬Ы╥ж╦НкПй╖: 0.0112, ф╫╬Ыр╩жбпткПй╖: 0.0017, ф╫╬Ы╥Г╦ЯкПй╖: 0.1329, ф╫╬Ы Dice ╥жйЩ: 0.8812
+Epoch 55 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 55, ф╫╬ЫкПй╖: 0.0097, ф╫╬Ы╥ж╦НкПй╖: 0.0096, ф╫╬Ыр╩жбпткПй╖: 0.0010, ф╫╬Ы╥Г╦ЯкПй╖: 0.1351, ф╫╬Ы Dice ╥жйЩ: 0.8953
+Epoch 56 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 56, ф╫╬ЫкПй╖: 0.0100, ф╫╬Ы╥ж╦НкПй╖: 0.0099, ф╫╬Ыр╩жбпткПй╖: 0.0012, ф╫╬Ы╥Г╦ЯкПй╖: 0.1323, ф╫╬Ы Dice ╥жйЩ: 0.8939
+Epoch 57 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 57, ф╫╬ЫкПй╖: 0.0107, ф╫╬Ы╥ж╦НкПй╖: 0.0106, ф╫╬Ыр╩жбпткПй╖: 0.0013, ф╫╬Ы╥Г╦ЯкПй╖: 0.1461, ф╫╬Ы Dice ╥жйЩ: 0.8896
+Epoch 58 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 58, ф╫╬ЫкПй╖: 0.0128, ф╫╬Ы╥ж╦НкПй╖: 0.0126, ф╫╬Ыр╩жбпткПй╖: 0.0020, ф╫╬Ы╥Г╦ЯкПй╖: 0.1262, ф╫╬Ы Dice ╥жйЩ: 0.8666
+Epoch 59 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 59, ф╫╬ЫкПй╖: 0.0120, ф╫╬Ы╥ж╦НкПй╖: 0.0119, ф╫╬Ыр╩жбпткПй╖: 0.0016, ф╫╬Ы╥Г╦ЯкПй╖: 0.1385, ф╫╬Ы Dice ╥жйЩ: 0.8762
+Epoch 60 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 60, ф╫╬ЫкПй╖: 0.0107, ф╫╬Ы╥ж╦НкПй╖: 0.0106, ф╫╬Ыр╩жбпткПй╖: 0.0013, ф╫╬Ы╥Г╦ЯкПй╖: 0.1334, ф╫╬Ы Dice ╥жйЩ: 0.8835
+Epoch 61 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 61, ф╫╬ЫкПй╖: 0.0120, ф╫╬Ы╥ж╦НкПй╖: 0.0118, ф╫╬Ыр╩жбпткПй╖: 0.0015, ф╫╬Ы╥Г╦ЯкПй╖: 0.1392, ф╫╬Ы Dice ╥жйЩ: 0.8785
+Epoch 62 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 62, ф╫╬ЫкПй╖: 0.0105, ф╫╬Ы╥ж╦НкПй╖: 0.0104, ф╫╬Ыр╩жбпткПй╖: 0.0012, ф╫╬Ы╥Г╦ЯкПй╖: 0.1315, ф╫╬Ы Dice ╥жйЩ: 0.8859
+Epoch 63 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 63, ф╫╬ЫкПй╖: 0.0096, ф╫╬Ы╥ж╦НкПй╖: 0.0094, ф╫╬Ыр╩жбпткПй╖: 0.0013, ф╫╬Ы╥Г╦ЯкПй╖: 0.1431, ф╫╬Ы Dice ╥жйЩ: 0.8967
+Epoch 64 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 64, ф╫╬ЫкПй╖: 0.0105, ф╫╬Ы╥ж╦НкПй╖: 0.0104, ф╫╬Ыр╩жбпткПй╖: 0.0011, ф╫╬Ы╥Г╦ЯкПй╖: 0.1313, ф╫╬Ы Dice ╥жйЩ: 0.8900
+Epoch 65 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 65, ф╫╬ЫкПй╖: 0.0094, ф╫╬Ы╥ж╦НкПй╖: 0.0093, ф╫╬Ыр╩жбпткПй╖: 0.0011, ф╫╬Ы╥Г╦ЯкПй╖: 0.1404, ф╫╬Ы Dice ╥жйЩ: 0.9008
+Epoch 66 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 66, ф╫╬ЫкПй╖: 0.0093, ф╫╬Ы╥ж╦НкПй╖: 0.0092, ф╫╬Ыр╩жбпткПй╖: 0.0009, ф╫╬Ы╥Г╦ЯкПй╖: 0.1369, ф╫╬Ы Dice ╥жйЩ: 0.9001
+Epoch 67 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 67, ф╫╬ЫкПй╖: 0.0089, ф╫╬Ы╥ж╦НкПй╖: 0.0088, ф╫╬Ыр╩жбпткПй╖: 0.0008, ф╫╬Ы╥Г╦ЯкПй╖: 0.1356, ф╫╬Ы Dice ╥жйЩ: 0.9049
+Epoch 68 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)
+Epoch 68, ф╫╬ЫкПй╖: 0.0091, ф╫╬Ы╥ж╦НкПй╖: 0.0090, ф╫╬Ыр╩жбпткПй╖: 0.0011, ф╫╬Ы╥Г╦ЯкПй╖: 0.1415, ф╫╬Ы Dice ╥жйЩ: 0.9029
+Epoch 69 ©╙й╪я╣а╥
+╣╠г╟хннЯ ID: 0 (сР 0)
+╣╠г╟хннЯ ID: 1 (сР 1)
+╣╠г╟хннЯ ID: 2 (сР 2)
+╣╠г╟хннЯ ID: 3 (сР 3)
+╣╠г╟хннЯ ID: 4 (сР 4)
+╣╠г╟хннЯ ID: 5 (сР 5)

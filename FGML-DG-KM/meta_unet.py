@@ -108,6 +108,7 @@ class UNet(nn.Module):
     def __init__(self, c=1, n=32, num_classes=1, norm='in'):
         super(UNet, self).__init__()
         self.mode='meta-train'
+        self.epoch_fill=30
         self.style_bank=StyleFeatureBank()  # 初始化风格特征库
         self.style_bank_old=StyleFeatureBank()  # 初始化旧风格特征库
 
@@ -138,25 +139,33 @@ class UNet(nn.Module):
         )
 
         # 注册钩子到指定层（例如 convd2 和 convd3），可选。如果启用，钩子会自动提取统计
-        self.hook_handles = []
-        self.hook_handles.append(self.convd2.register_forward_hook(
-            lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd2') if self.mode != 'get_source' else None))
-        self.hook_handles.append(self.convd3.register_forward_hook(
-            lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd3')if self.mode != 'get_source' else None))
+        # self.hook_handles = []
+        # self.hook_handles.append(self.convd2.register_forward_hook(
+        #     lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd2') if self.mode != 'get_source' else None))
+        # self.hook_handles.append(self.convd3.register_forward_hook(
+        #     lambda module, input, output: hook_fn(module, input, output, self.style_bank, 'convd3')if self.mode != 'get_source' else None))
 
-    def forward(self, x, task_id=None,meta_loss=None, meta_step_size=0.001, stop_gradient=False):
+    def forward(self, x, task_id=None,epoch=None,meta_loss=None, meta_step_size=0.05, stop_gradient=False):
         if self.mode in ['meta-train' , 're-train', 'get_source']:
             # 下采样路径
-            x1 = self.convd1(x, meta_loss, meta_step_size, stop_gradient)  # 钩子不在这里触发，因为 convd1 没有注册
-            x2 = self.convd2(x1, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd2 输出
-            x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd3 输出
+            x1 = self.convd1(x, meta_loss, meta_step_size, stop_gradient)
+            x2 = self.convd2(x1, meta_loss, meta_step_size, stop_gradient)
+            # 元训练特征统计量加入特征bank
+            if self.mode=='meta-train' and epoch>=self.epoch_fill:
+                mean, std = self.style_bank.compute_statistics(x2)  # 手动计算 x2 统计（可选，如果钩子已覆盖，可以注释）
+                if task_id==0:
+                    self.style_bank.add_statistics('convd2', mean, std)  # 添加到 style_bank（使用自定义层名避免冲突）
+                if task_id!= 0 and epoch>self.epoch_fill:
+                    # 获取并混合统计：使用 style_bank 的方法
+                    # print(f'任务 {task_id} ,使用旧风格特征库')
+                    mean_vector, std_vector = self.style_bank_old.get_vector('convd2')  # 从 convd2 层获取；可以扩展到其他层
+                    mixed_mean, mixed_std = self.style_bank_old.mix_statistics(mean, std, mean_vector,std_vector)
+                    # 应用混合统计
+                    x2 = self.style_bank_old.apply_meta_style(x2, mixed_mean, mixed_std)
+            x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)
             x4 = self.convd4(x3, meta_loss, meta_step_size, stop_gradient)
             x5 = self.convd5(x4, meta_loss, meta_step_size, stop_gradient)
-            # print(self.mode)
-            # 元训练特征统计量加入特征bank
-            # if self.mode=='meta-train':
-            #     mean, std = self.style_bank.compute_statistics(x2)  # 手动计算 x2 统计（可选，如果钩子已覆盖，可以注释）
-            #     self.style_bank.add_statistics('convd2_manual', mean, std)  # 添加到 style_bank（使用自定义层名避免冲突）
+
             # 上采样路径
             y4 = self.convu4(x5, x4, meta_loss, meta_step_size, stop_gradient)
             y3 = self.convu3(y4, x3, meta_loss, meta_step_size, stop_gradient)
@@ -174,37 +183,43 @@ class UNet(nn.Module):
             # 下采样路径
             x1 = self.convd1(x, meta_loss, meta_step_size, stop_gradient)  # 钩子不在这里触发，因为 convd1 没有注册
 
-            if task_id!= 0:
-                # 获取并混合统计：使用 style_bank 的方法
-                mean_vector, std_vector = self.style_bank_old.get_vector('convd2')  # 从 convd2 层获取；可以扩展到其他层
-                # print('mean_vector:', mean_vector.shape) # [total_batch, 64, 1, 1] [24, 64, 1, 1]
-                # print('std_vector:', std_vector.shape) # [total_batch, 64, 1, 1] [24, 64, 1, 1]
+            # if task_id!= 0:
+            #     # 获取并混合统计：使用 style_bank 的方法
+            #     mean_vector, std_vector = self.style_bank_old.get_vector('convd2')  # 从 convd2 层获取；可以扩展到其他层
+            #     # print('mean_vector:', mean_vector.shape) # [total_batch, 64, 1, 1] [24, 64, 1, 1]
+            #     # print('std_vector:', std_vector.shape) # [total_batch, 64, 1, 1] [24, 64, 1, 1]
 
             x2 = self.convd2(x1, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd2 输出
             if task_id!= 0:
-                target_mean, target_std = self.style_bank_old.compute_statistics(x2)  # 计算当前X2的统计作为目标
-                # print('target_mean:', target_mean.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
-                # print('target_std:', target_std.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
-                mixed_mean, mixed_std = self.style_bank_old.mix_statistics(target_mean, target_std, mean_vector, std_vector)
-                # print('mixed_mean:', mixed_mean.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
-                # print('mixed_std:', mixed_std.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
-                # 应用混合统计
-                x2 = self.style_bank_old.apply_meta_style(x2, mixed_mean, mixed_std)
-
-            if task_id!= 0:
-                mean_vector, std_vector = self.style_bank_old.get_vector('convd3')  # 假设从 convd2 层获取；可以扩展到其他层
+                mean, std = self.style_bank.compute_statistics(x2)  # 手动计算 x2 统计（可选，如果钩子已覆盖，可以注释）
+                self.style_bank.add_statistics('convd2', mean, std)  # 添加到 style_bank（使用自定义层名避免冲突）
+            # if task_id!= 0:
+            #     target_mean, target_std = self.style_bank_old.compute_statistics(x2)  # 计算当前X2的统计作为目标
+            #     # print('target_mean:', target_mean.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+            #     # print('target_std:', target_std.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+            #     mixed_mean, mixed_std = self.style_bank_old.mix_statistics(target_mean, target_std, mean_vector, std_vector)
+            #     # print('mixed_mean:', mixed_mean.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+            #     # print('mixed_std:', mixed_std.shape) # [batch/2, 64, 1, 1] [4, 64, 1, 1]
+            #     # 应用混合统计
+            #     x2 = self.style_bank_old.apply_meta_style(x2, mixed_mean, mixed_std)
+            #
+            # if task_id!= 0:
+            #     mean_vector, std_vector = self.style_bank_old.get_vector('convd3')  # 假设从 convd2 层获取；可以扩展到其他层
                 # print('mean_vector:', mean_vector.shape) # [total_batch, 128, 1, 1] [24, 128, 1, 1]
                 # print('std_vector:', std_vector.shape)  # [total_batch, 128, 1, 1] [24, 128, 1, 1]
+            # meta_loss=None
+
             x3 = self.convd3(x2, meta_loss, meta_step_size, stop_gradient)  # 钩子会自动捕获 convd3 输出
-            if task_id!= 0:
-                target_mean, target_std = self.style_bank_old.compute_statistics(x3)  # 计算当前X3的统计作为目标
-                # print('target_mean:', target_mean.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
-                # print('target_std:', target_std.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
-                mixed_mean, mixed_std = self.style_bank_old.mix_statistics(target_mean, target_std, mean_vector, std_vector)
-                # print('mixed_mean:', mixed_mean.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
-                # print('mixed_std:', mixed_std.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
-                # 应用混合统计
-                x3 = self.style_bank_old.apply_meta_style(x3, mixed_mean, mixed_std)
+
+            # if task_id!= 0:
+            #     target_mean, target_std = self.style_bank_old.compute_statistics(x3)  # 计算当前X3的统计作为目标
+            #     # print('target_mean:', target_mean.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+            #     # print('target_std:', target_std.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+            #     mixed_mean, mixed_std = self.style_bank_old.mix_statistics(target_mean, target_std, mean_vector, std_vector)
+            #     # print('mixed_mean:', mixed_mean.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+            #     # print('mixed_std:', mixed_std.shape) # [batch/2, 128, 1, 1] [4, 128, 1, 1]
+            #     # 应用混合统计
+            #     x3 = self.style_bank_old.apply_meta_style(x3, mixed_mean, mixed_std)
 
             x4 = self.convd4(x3, meta_loss, meta_step_size, stop_gradient)
             x5 = self.convd5(x4, meta_loss, meta_step_size, stop_gradient)
@@ -235,13 +250,6 @@ class UNet(nn.Module):
             y3 = self.convu3(y4, x3)
             y2 = self.convu2(y3, x2)
             y1 = self.convu1(y2, x1)
-            # # 在 eval 模式下，使用保存的统计（例如从 convd2）
-            # if 'convd2' in self.style_bank.feature_stats:  # 检查是否有统计
-            #     mean_style, std_style = self.style_bank.get_avg_stats('convd2')  # 获取平均统计
-            #     mean_style=mean_style.to(y1.device)  # 确保在相同设备上
-            #     std_style=std_style.to(y1.device)  # 确保在相同设备上
-            #     # 应用 AdaIN 到 y1
-            #     y1 = self.style_bank.apply_meta_style(y1, mean_style, std_style)
 
             seg_out = self.seg1(y1)
             seg_out = self.o(seg_out)
@@ -299,33 +307,33 @@ class DiceLoss(nn.Module):
 
         return dice_loss
 
-
-def dice(pred, mask):
-    pred = pred.view(-1)
-    mask = mask.view(-1)
-    intersection = (pred * mask).sum()
-    return (2. * intersection) / (pred.sum() + mask.sum() + 1e-6)
-
-def compute_mean_and_std(features):
-    mean = features.mean(dim=[2, 3], keepdim=True)  # 均值 [batch_size, channels, 1, 1]
-    std = features.std(dim=[2, 3], keepdim=True)  # 标准差 [batch_size, channels, 1, 1]
-    return mean, std
-
-
-# 动态权重计算
-def compute_dynamic_weight(source_mean, source_std, target_mean, target_std):
-    # 计算源域与目标域间的风格差异
-    delta_mean = torch.abs(source_mean - target_mean).mean()
-    delta_std = torch.abs(source_std - target_std).mean()
-    delta_style = delta_mean + delta_std
-
-    # 使用归一化后的风格差异计算权重 (1 为归一化上限)
-    weight = delta_style / (delta_style + 1e-8)  # 避免除零
-    return weight
-
-
-# 风格对齐损失
-def style_alignment_loss(source_mean, source_std, target_mean, target_std, weight):
-    mean_loss = (source_mean - target_mean).pow(2).mean()
-    std_loss = (source_std - target_std).pow(2).mean()
-    return weight * (mean_loss + std_loss)
+#
+# def dice(pred, mask):
+#     pred = pred.view(-1)
+#     mask = mask.view(-1)
+#     intersection = (pred * mask).sum()
+#     return (2. * intersection) / (pred.sum() + mask.sum() + 1e-6)
+#
+# def compute_mean_and_std(features):
+#     mean = features.mean(dim=[2, 3], keepdim=True)  # 均值 [batch_size, channels, 1, 1]
+#     std = features.std(dim=[2, 3], keepdim=True)  # 标准差 [batch_size, channels, 1, 1]
+#     return mean, std
+#
+#
+# # 动态权重计算
+# def compute_dynamic_weight(source_mean, source_std, target_mean, target_std):
+#     # 计算源域与目标域间的风格差异
+#     delta_mean = torch.abs(source_mean - target_mean).mean()
+#     delta_std = torch.abs(source_std - target_std).mean()
+#     delta_style = delta_mean + delta_std
+#
+#     # 使用归一化后的风格差异计算权重 (1 为归一化上限)
+#     weight = delta_style / (delta_style + 1e-8)  # 避免除零
+#     return weight
+#
+#
+# # 风格对齐损失
+# def style_alignment_loss(source_mean, source_std, target_mean, target_std, weight):
+#     mean_loss = (source_mean - target_mean).pow(2).mean()
+#     std_loss = (source_std - target_std).pow(2).mean()
+#     return weight * (mean_loss + std_loss)
